@@ -56,8 +56,8 @@ Please contribute to this list by pull request or contact me on Twitter [@_adeel
 - [Wufoo](http://wufoo.com/) - [docs](http://help.wufoo.com/articles/en_US/SurveyMonkeyArticleType/The-WebHook-APIs)
 - [Wunderlist](https://wunderlist.com/) - [docs](https://developer.wunderlist.com/documentation/endpoints/webhooks)
 
-<a name="outgoing" />
-## Outgoing
+<a name="incoming" />
+## Incoming
 - [Slack](https://slackhq.com/) - [docs](https://api.slack.com/incoming-webhooks)
 
 <a name="testing" />
