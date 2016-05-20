@@ -22,7 +22,7 @@ Please contribute to this list by pull request or contact me on Twitter [@_adeel
 - [Chargify](https://chargify.com/) - [docs](https://docs.chargify.com/api-webhooks)
 - [Dropbox](https://dropbox.com/) - [docs](https://www.dropbox.com/developers/reference/webhooks)
 - [Evernote](https://evernote.com) - [docs](https://dev.evernote.com/doc/articles/polling_notification.php)
-- [ExactTarget](https://exacttarget.com/) - [docs](https://code.exacttarget.com/apis-sdks/rest-api/webhooks-subscription-api.html)
+- [ExactTarget](http://exacttarget.com/) - [docs](https://code.exacttarget.com/apis-sdks/rest-api/webhooks-subscription-api.html)
 - [Facebook](https://facebook.com) - [docs](https://developers.facebook.com/docs/graph-api/webhooks)
 - [FluidSurveys](https://fluidsurveys.com) - [docs](http://docs.fluidsurveys.com/fluidsurveys/api/webhooks.html)
 - [Formstack](https://formstack.com) - [docs](https://developers.formstack.com/v2.0/docs/webhook-setup)
