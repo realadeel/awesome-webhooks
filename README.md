@@ -53,6 +53,7 @@ APIs that will make HTTP callbacks to your system.
 - [Janrain](http://janrain.com/) - [docs](http://developers.janrain.com/overview/registration/webhooks/)
 - [JotForm](https://jotform.com) - [docs](https://www.jotform.com/help/245-How-to-Setup-Webhook-with-JotForm)
 - [Layer](https://layer.com/) - [docs](https://developer.layer.com/docs/webhooks)
+- [Lyft](http://lyft.com/) - [docs](https://developer.lyft.com/docs/webhooks)
 - [LiveChat](http://livechatinc.com/) - [docs](https://developers.livechatinc.com/build-an-integration)
 - [Mailchimp](http://mailchimp.com/) - [docs](http://developer.mailchimp.com/documentation/mailchimp/reference/overview/)
 - [Mailgun](https://mailgun.com) - [docs](https://documentation.mailgun.com/api-webhooks.html)
