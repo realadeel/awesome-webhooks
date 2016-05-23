@@ -21,6 +21,7 @@ APIs that will make HTTP callbacks to your system.
 - [Braintree](https://www.braintreepayments.com/) - [docs](https://developers.braintreepayments.com/guides/webhooks/overview)
 - [Campaign Monitor](https://www.campaignmonitor.com) - [docs](https://www.campaignmonitor.com/api/webhooks/)
 - [Chargify](https://chargify.com/) - [docs](https://docs.chargify.com/api-webhooks)
+- [Diffbot](https://www.diffbot.com/) - [docs] (https://www.diffbot.com/dev/docs/crawl/api.jsp)
 - [Dropbox](https://dropbox.com/) - [docs](https://www.dropbox.com/developers/reference/webhooks)
 - [Evernote](https://evernote.com) - [docs](https://dev.evernote.com/doc/articles/polling_notification.php)
 - [ExactTarget](http://exacttarget.com/) - [docs](https://code.exacttarget.com/apis-sdks/rest-api/webhooks-subscription-api.html)
@@ -31,7 +32,6 @@ APIs that will make HTTP callbacks to your system.
 - [GetSatisfaction](https://getsatisfaction.com) - [docs](https://education.getsatisfaction.com/reference-guide/api/push-api-webhooks/)
 - [Github](https://github.com/) - [docs](https://developer.github.com/webhooks/)
 - [Hipchat](https://hipchat.com/) - [docs](https://www.hipchat.com/docs/apiv2/webhooks)
-- [IFTTT](http://ifttt.com/)- [docs](https://ifttt.com/maker)
 - [Intercom](https://intercom.io) - [docs](https://docs.intercom.io/integrations/webhooks)
 - [Layer](https://layer.com/) - [docs](https://developer.layer.com/docs/webhooks)
 - [Mailchimp](http://mailchimp.com/) - [docs](http://developer.mailchimp.com/documentation/mailchimp/reference/overview/)
@@ -58,14 +58,11 @@ APIs that will make HTTP callbacks to your system.
 - [Vend](https://vendhq.com) - [docs](https://developers.vendhq.com/documentation/webhooks.html)
 - [Wufoo](http://wufoo.com/) - [docs](http://help.wufoo.com/articles/en_US/SurveyMonkeyArticleType/The-WebHook-APIs)
 - [Wunderlist](https://wunderlist.com/) - [docs](https://developer.wunderlist.com/documentation/endpoints/webhooks)
-- [Zapier](https://zapier.com/) - [docs](https://zapier.com/developer/documentation/v2/rest-hooks/)
 
 <a name="incoming" />
 ## Incoming
 APIs that can receive HTTP callbacks from your system.
-- [IFTTT](http://ifttt.com/)- [docs](https://ifttt.com/maker)
 - [Slack](https://slackhq.com/) - [docs](https://api.slack.com/incoming-webhooks)
-- [Zapier](https://zapier.com/) - [docs](https://zapier.com/developer/documentation/v2/rest-hooks/)
 
 <a name="testing" />
 ## Testing
