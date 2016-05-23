@@ -2,9 +2,9 @@
 
 Webhooks are awesome. They are HTTP requests that are triggered when some event happens. The HTTP requests basically notify you the moment something interesting happens. Webhooks enable realtime actions between systems across the internet. To receive webhooks from a system, you often simply need to provide a URL for the system to post to.
 
-Please contribute to this list by pull request or contact me on Twitter [@_adeel](https://twitter.com/_adeel)
+Please contribute to this list by pull request or contact me on Twitter [@_adeel](https://twitter.com/_adeel).
 
-Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%20this%20list%20of%20awesome%20webhooks%20APIs%20https://github.com/realadeel/awesome-webhooks)
+Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%20this%20list%20of%20awesome%20webhooks%20APIs%20https://github.com/realadeel/awesome-webhooks).
 
 ## Index
 
