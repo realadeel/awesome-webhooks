@@ -1,10 +1,10 @@
 # Awesome Webhooks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a curated list of everything related to webhooks.
+Webhooks are awesome. They are HTTP requests that are triggered when some event happens. The HTTP requests basically notify you the moment something interesting happens. Webhooks enable realtime actions between systems across the internet. To receive webhooks from a system, you often simply need to provide a URL for the system to post to.
 
 Please contribute to this list by pull request or contact me on Twitter [@_adeel](https://twitter.com/_adeel)
 
-## Table of Contents
+## Index
 
 - [Outgoing](#outgoing)
 - [Incoming](#incoming)
@@ -12,6 +12,7 @@ Please contribute to this list by pull request or contact me on Twitter [@_adeel
 
 <a name="outgoing" />
 ## Outgoing
+APIs that will make HTTP callbacks to your system.
 - [Asana](https://asana.com) - [docs](https://asana.com/developers/api-reference/webhooks)
 - [Automatic](https://automatic.com) - [docs](https://developer.automatic.com/api-reference/#receiving-webhooks)
 - [Bigcommerce](https://bigcommerce.com) - [docs](https://developer.bigcommerce.com/api/webhooks-getting-started)
@@ -39,6 +40,7 @@ Please contribute to this list by pull request or contact me on Twitter [@_adeel
 - [Olark](https://www.olark.com/) - [docs](https://www.olark.com/help/webhooks)
 - [Onfleet](https://onfleet.com) - [docs](http://docs.onfleet.com/docs/webhooks)
 - [PagerDuty](https://pagerduty.com) - [docs](https://developer.pagerduty.com/documentation/rest/webhooks)
+- [Papertrail](https://papertrailapp.com/) - [docs](http://help.papertrailapp.com/kb/how-it-works/web-hooks/)
 - [PayPal](https://www.paypal.com/home) - [docs](https://developer.paypal.com/docs/integration/direct/rest-webhooks-overview/)
 - [Recurly](https://recurly.com) - [docs](https://dev.recurly.com/page/webhooks)
 - [SendGrid](https://sendgrid.com/) - [docs](https://sendgrid.com/docs/API_Reference/Webhooks/index.html)
@@ -58,8 +60,11 @@ Please contribute to this list by pull request or contact me on Twitter [@_adeel
 
 <a name="incoming" />
 ## Incoming
+APIs that can receive HTTP callbacks from your system.
 - [Slack](https://slackhq.com/) - [docs](https://api.slack.com/incoming-webhooks)
 
 <a name="testing" />
 ## Testing
-- [RequestBin](http://requestb.in/)
+Resources for testing and debugging webhooks.
+- [RequestBin](http://requestb.in/) - RequestBin gives you a temporary URL that will collect and inspect requests made to it.
+- [Charles](http://www.charlesproxy.com/) - Tool to inspect HTTP traffic between your local machine and the internet.
