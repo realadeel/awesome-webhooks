@@ -73,4 +73,13 @@ APIs that can receive HTTP callbacks from your system.
 ## Testing
 Resources for testing and debugging webhooks.
 - [RequestBin](http://requestb.in/) - RequestBin gives you a temporary URL that will collect and inspect requests made to it.
+- [WebhookInbox](http://webhookinbox.com/) - Like RequestBin but with live updates.
 - [Charles](http://www.charlesproxy.com/) - Tool to inspect HTTP traffic between your local machine and the internet.
+- [ngrok](https://ngrok.com/) - Secure tunnels to localhost.
+
+<a name="devtools" />
+## Development Tools
+Resources for API providers that need to send webhooks.
+- [Fanout Cloud](http://fanout.io/cloud/) - [docs](https://fanout.io/docs/devguide.html#webhooks)
+- [webhooks.io](http://www.webhooks.io) - [docs](http://www.webhooks.io/docs)
+- [Zurl](http://github.com/fanout/zurl) - HTTP client worker with ZeroMQ interface.
