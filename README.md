@@ -88,6 +88,7 @@ APIs that will make HTTP callbacks to your system.
 - [Square](https://squareup.com/) - [docs](https://docs.connect.squareup.com/#webhooks-overview)
 - [Status Page](https://statuspage.io) - [docs](https://help.statuspage.io/knowledge_base/topics/webhook-notifications)
 - [Stripe](https://stripe.com/) - [docs](https://stripe.com/docs/webhooks)
+- [Teamwork](https://www.teamwork.com/) - [docs](http://developer.teamwork.com/webhooksapi)
 - [Trello](https://trello.com/) - [docs](https://developers.trello.com/apis/webhooks)
 - [Twilio](https://www.twilio.com/) - [docs](https://www.twilio.com/docs/api/ip-messaging/webhooks)
 - [Typeform](http://typeform.io/) - [docs](http://docs.typeform.io/docs/results-introduction)
