@@ -8,13 +8,12 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 
 ## Index
 
-- [Outgoing](#outgoing)
-- [Incoming](#incoming)
-- [Testing](#testing)
+- [Outgoing](#outgoing) - APIs that will make requests to your system about an event.
+- [Incoming](#incoming) - APIs that can receive HTTP requests from your system about an event.
+- [Development Tools](#testing) - Resources for API providers and consumers of webhooks.
 
-<a name="outgoing" />
 ## Outgoing
-APIs that will make HTTP callbacks to your system.
+APIs that will make requests to your system about an event.
 - [ActiveCampaign](http://activecampaign.com) - [docs](http://www.activecampaign.com/api/webhooks.php)
 - [Asana](https://asana.com) - [docs](https://asana.com/developers/api-reference/webhooks)
 - [Automatic](https://automatic.com) - [docs](https://developer.automatic.com/api-reference/#receiving-webhooks)
@@ -101,24 +100,18 @@ APIs that will make HTTP callbacks to your system.
 - [Wunderlist](https://wunderlist.com/) - [docs](https://developer.wunderlist.com/documentation/endpoints/webhooks)
 - [Zapier](https://zapier.com/) - [docs](https://zapier.com/developer/documentation/v2/rest-hooks/)
 
-<a name="incoming" />
 ## Incoming
-APIs that can receive HTTP callbacks from your system.
+APIs that can receive HTTP requests from your system about an event.
 - [IFTTT](http://ifttt.com/) - [docs](https://ifttt.com/maker)
 - [Slack](https://slackhq.com/) - [docs](https://api.slack.com/incoming-webhooks)
 - [Zapier](https://zapier.com/) - [docs](https://zapier.com/developer/documentation/v2/rest-hooks/)
 
-<a name="testing" />
-## Testing
-Resources for testing and debugging webhooks.
+## Development Tools
+Resources for API providers and consumers of webhooks.
+- [Fanout Cloud](http://fanout.io/cloud/) - [docs](https://fanout.io/docs/devguide.html#webhooks)
+- [webhooks.io](http://www.webhooks.io) - [docs](http://www.webhooks.io/docs)
+- [Zurl](http://github.com/fanout/zurl) - HTTP client worker with ZeroMQ interface.
 - [RequestBin](http://requestb.in/) - RequestBin gives you a temporary URL that will collect and inspect requests made to it.
 - [WebhookInbox](http://webhookinbox.com/) - Like RequestBin but with live updates.
 - [Charles](http://www.charlesproxy.com/) - Tool to inspect HTTP traffic between your local machine and the internet.
 - [ngrok](https://ngrok.com/) - Secure tunnels to localhost.
-
-<a name="devtools" />
-## Development Tools
-Resources for API providers that need to send webhooks.
-- [Fanout Cloud](http://fanout.io/cloud/) - [docs](https://fanout.io/docs/devguide.html#webhooks)
-- [webhooks.io](http://www.webhooks.io) - [docs](http://www.webhooks.io/docs)
-- [Zurl](http://github.com/fanout/zurl) - HTTP client worker with ZeroMQ interface.
