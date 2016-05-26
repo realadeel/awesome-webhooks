@@ -115,3 +115,4 @@ Resources for API providers and consumers of webhooks.
 - [WebhookInbox](http://webhookinbox.com/) - Like RequestBin but with live updates.
 - [Charles](http://www.charlesproxy.com/) - Tool to inspect HTTP traffic between your local machine and the internet.
 - [ngrok](https://ngrok.com/) - Secure tunnels to localhost.
+- [Ultrahook](http://www.ultrahook.com/) - Receive webhooks on localhost.
