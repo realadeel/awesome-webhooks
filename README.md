@@ -8,9 +8,17 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 
 ## Index
 
+- [About Webhooks](#about-webhooks) - APIs that will make requests to your system about an event.
 - [Outgoing](#outgoing) - APIs that will make requests to your system about an event.
 - [Incoming](#incoming) - APIs that can receive HTTP requests from your system about an event.
-- [Development Tools](#testing) - Resources for API providers and consumers of webhooks.
+- [Development Tools](#development-tools) - Resources for API providers and consumers of webhooks.
+
+## About Webhooks
+Tutorials, guides, articles about using webhooks.
+- [What’s a Webhook?](https://sendgrid.com/blog/whats-webhook/)
+- [What are Webhooks?](http://webhooks.us/)
+- [Creative Uses for Webhooks](http://code.tutsplus.com/tutorials/creative-uses-for-webhooks--cms-22818)
+- [7 Reasons Webhooks are Magic](https://www.iron.io/7-reasons-webhooks-are-magic/)
 
 ## Outgoing
 APIs that will make requests to your system about an event.
