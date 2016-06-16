@@ -153,3 +153,4 @@ Resources for API providers and consumers of webhooks.
 - [Charles](http://www.charlesproxy.com/) - Tool to inspect HTTP traffic between your local machine and the internet.
 - [ngrok](https://ngrok.com/) - Secure tunnels to localhost.
 - [Ultrahook](http://www.ultrahook.com/) - Receive webhooks on localhost.
+- [REST Hooks](http://resthooks.org/) - A collection of patterns that treat webhooks like subscriptions.
