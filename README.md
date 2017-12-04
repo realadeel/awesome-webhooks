@@ -28,6 +28,7 @@ APIs that will make requests to your system about an event.
 - [Api.ai](https://api.ai/) - [docs](https://docs.api.ai/docs/webhook)
 - [Asana](https://asana.com) - [docs](https://asana.com/developers/api-reference/webhooks)
 - [Automatic](https://automatic.com) - [docs](https://developer.automatic.com/api-reference/#receiving-webhooks)
+- [Axibase Time Series Database](https://axibase.com/products/axibase-time-series-database/) - [docs](https://github.com/axibase/atsd/blob/master/rule-engine/notifications/webhook.md)
 - [Bigcommerce](https://bigcommerce.com) - [docs](https://developer.bigcommerce.com/api/webhooks-getting-started)
 - [Bitbucket](https://bitbucket.org) - [docs](https://confluence.atlassian.com/bitbucket/manage-webhooks-735643732.html)
 - [Box](https://box.com) - [docs](https://developers.box.com/webhooks/)
