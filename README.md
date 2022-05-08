@@ -154,3 +154,4 @@ Resources for API providers and consumers of webhooks.
 - [ngrok](https://ngrok.com/) - Secure tunnels to localhost.
 - [Ultrahook](http://www.ultrahook.com/) - Receive webhooks on localhost.
 - [REST Hooks](http://resthooks.org/) - A collection of patterns that treat webhooks like subscriptions.
+- [Open Webhook](https://openwebhook.io/) - Store webhooks and receive on localhost.
