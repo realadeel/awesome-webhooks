@@ -8,10 +8,18 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 
 ## Index
 
+- [Community](#community) - Web communities to discuss webhooks.
 - [About Webhooks](#about-webhooks) - APIs that will make requests to your system about an event.
 - [Outgoing](#outgoing) - APIs that will make requests to your system about an event.
 - [Incoming](#incoming) - APIs that can receive HTTP requests from your system about an event.
 - [Development Tools](#development-tools) - Resources for API providers and consumers of webhooks.
+
+## Community
+
+Places to ask questions and discuss webhooks and associated topics.
+
+- [g/webhooks](https://groups.google.com/g/webhooks) - Google group for webhooks
+- [r/webhooks](https://www.reddit.com/r/webhooks/) - Reddit subreddit for webhooks
 
 ## About Webhooks
 
