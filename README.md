@@ -172,6 +172,7 @@ Resources for API providers and consumers of webhooks.
 - [Hookdeck](https://hookdeck.com/) - Inbound webhook queue supporting fanout, retry, alerting & more
 - [hookrelay](https://www.hookrelay.dev/) - Webhook delivery platform (webhooks as a service)
 - [HostedHooks](https://hostedhooks.com/) - Webhook platform (webhooks as a service)
+- [Jiter](https://jiter.dev/) - Just In Time (JIT) webhooks for scheduling / delaying
 - [ngrok](https://ngrok.com/) - Secure tunnels to localhost
 - [Open Webhook](https://openwebhook.io/) - Store webhooks and receive on localhost
 - [Reliable Webhook](https://www.reliablewebhook.com/) - VS Code extension & relay app to help develop webhooks
