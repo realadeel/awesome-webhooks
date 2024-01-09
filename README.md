@@ -194,3 +194,5 @@ Resources for API providers and consumers of webhooks.
 - [Ultrahook](http://www.ultrahook.com/) - Receive webhooks on localhost
 - [Zeplo](https://www.zeplo.io/) - [docs](https://www.zeplo.io/docs/intro) Add retry, delay, queue and schedule to your HTTP requests
 - [Zurl](http://github.com/fanout/zurl) - HTTP client worker with ZeroMQ interface
+- [Webhook.cool](https://webhook.cool/) - Testing tool. Receive and inspect incoming webhooks
+- [LocalCan](https://www.localcan.com/) - Ngrok alternative with Public URLs and Local domains. Receive, inspect & replay any request
