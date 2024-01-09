@@ -60,6 +60,7 @@ APIs that will make requests to your system about an event.
 - [Clover](https://clover.com) - [docs](https://docs.clover.com/build/web-apps/webhooks/)
 - [Codeship](http://codeship.com) - [docs](https://codeship.com/documentation/integrations/webhooks/)
 - [Constant Contact](https://constantcontact.com/)- [docs](https://developer.constantcontact.com/docs/partnerwebhooks/webhooks_index.html)
+- [Contentful](https://www.contentful.com/)- [docs](https://www.contentful.com/developers/docs/concepts/webhooks/)
 - [Context.io](https://context.io/) - [docs](https://context.io/docs/2.0/accounts/webhooks)
 - [Crowdflower](https://crowdflower.com) - [docs](https://success.crowdflower.com/hc/en-us/articles/201856249-CrowdFlower-Webhook-Basics)
 - [Customer.io](http://customer.io) - [docs](https://customer.io/docs/webhooks.html)
