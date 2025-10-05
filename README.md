@@ -172,6 +172,7 @@ Resources for API providers and consumers of webhooks.
 - [Fanout Cloud](http://fanout.io/cloud/) - [docs](https://docs.fanout.io/docs) Push platform supporting webhooks
 - [hook.io](https://hook.io/) - Microservice and webhook hosting
 - [Hookdeck](https://hookdeck.com/) - Inbound webhook queue supporting fanout, retry, alerting & more
+- [Hooklistener](https://hooklistener.com/) - Managed webhook proxy that lets developers receive, inspect, and replay HTTP requests with ease
 - [hookrelay](https://www.hookrelay.dev/) - Webhook delivery platform (webhooks as a service)
 - [HostedHooks](https://hostedhooks.com/) - Webhook platform (webhooks as a service)
 - [Inhooks](https://github.com/didil/inhooks) - Lightweight Incoming Webhooks Gateway
