@@ -138,6 +138,7 @@ APIs that will make requests to your system about an event.
 - [Telegram](https://telegram.org/) - [docs](https://core.telegram.org/bots/api#getting-updates)
 - [Telerivet](https://telerivet.com/) - [docs](https://telerivet.com/api/webhook)
 - [Trello](https://trello.com/) - [docs](https://developers.trello.com/apis/webhooks)
+- [Trophy](https://trophy.so) - [docs](https://docs.trophy.so/webhooks)
 - [Twilio](https://www.twilio.com/) - [docs](https://www.twilio.com/docs/api/ip-messaging/webhooks)
 - [Typeform](http://typeform.io/) - [docs](http://docs.typeform.io/docs/results-introduction)
 - [Uber](http://uber.com) - [docs](https://developer.uber.com/docs/webhooks)
