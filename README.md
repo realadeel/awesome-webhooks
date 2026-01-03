@@ -198,3 +198,5 @@ Resources for API providers and consumers of webhooks.
 - [Zurl](http://github.com/fanout/zurl) - HTTP client worker with ZeroMQ interface
 - [Webhook.cool](https://webhook.cool/) - Testing tool. Receive and inspect incoming webhooks
 - [LocalCan](https://www.localcan.com/) - Ngrok alternative with Public URLs and Local domains. Receive, inspect & replay any request
+
+* [Vedika API](https://vedika.io) - Vedic astrology API with webhook support
