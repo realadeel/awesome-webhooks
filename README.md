@@ -143,6 +143,7 @@ APIs that will make requests to your system about an event.
 - [Uber](http://uber.com) - [docs](https://developer.uber.com/docs/webhooks)
 - [VerticalResponse](http://verticalresponse.com/) - [docs](http://developers.verticalresponse.com/docs/read/api_reference/Webhooks)
 - [Vend](https://vendhq.com) - [docs](https://developers.vendhq.com/documentation/webhooks.html)
+- [Vedika](https://vedika.io) - [docs](https://vedika.io/webhooks) - Vedic astrology AI API with webhook support for chart analysis, horoscope updates, and billing events
 - [Versapay](http://versapay.com/) - [docs](http://developers.versapay.com/webhook-api.html)
 - [WooCommerce](https://www.woothemes.com/woocommerce/) - [docs](https://docs.woothemes.com/document/webhooks/)
 - [Wordpress](https://www.wordpress.com) - [docs](https://en.support.wordpress.com/webhooks/)
