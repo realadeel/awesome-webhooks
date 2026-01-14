@@ -185,6 +185,7 @@ Resources for API providers and consumers of webhooks.
 - [Postman](https://learning.postman.com/docs/integrations/webhooks/) - Configure custom webhooks in Postman
 - [Svix](https://www.svix.com/) - Webhook sending platform (webhooks as a service)
 - [Svix Playground](https://www.svix.com/play/) - Svix version of RequestBin
+- [Webhook Debugger & Logger](https://apify.com/ar27111994/webhook-debugger-logger) - Enterprise-grade webhook inspection, logging, and replay tool with real-time SSE streaming and mock responses.
 - [WebhookApp](https://webhookapp.com/) - Test, debug, proxy and replay webhooks
 - [WebhookInbox](http://webhookinbox.com/) - Like RequestBin but with live updates
 - [webhooks.events.dev](https://webhooks.events.dev/) - Webhook platform (webhooks as a service)
