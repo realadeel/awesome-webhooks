@@ -85,7 +85,6 @@ APIs that will make requests to your system about an event.
 - [GoSquared](https://gosquared.com) - [docs](https://www.gosquared.com/customer/portal/articles/1996494-webhooks)
 - [Groove](https://groovehq.com) - [docs](https://www.groovehq.com/docs/webhooks)
 - [Gumroad](https://gumroad.com) - [docs](https://gumroad.com/webhooks)
-- [Hipchat](https://hipchat.com/) - [docs](https://www.hipchat.com/docs/apiv2/webhooks)
 - [HubSpot](http://hubspot.com/) - [docs](http://knowledge.hubspot.com/articles/kcs_article/workflows/how-do-i-use-webhooks-with-hubspot-workflows)
 - [IFTTT](http://ifttt.com/) - [docs](https://ifttt.com/maker)
 - [Instapage](https://instapage.com) - [docs](https://help.instapage.com/hc/en-us/articles/206039867-How-do-I-use-Webhooks-)
@@ -138,6 +137,7 @@ APIs that will make requests to your system about an event.
 - [Telegram](https://telegram.org/) - [docs](https://core.telegram.org/bots/api#getting-updates)
 - [Telerivet](https://telerivet.com/) - [docs](https://telerivet.com/api/webhook)
 - [Trello](https://trello.com/) - [docs](https://developers.trello.com/apis/webhooks)
+- [Trophy](https://trophy.so) - [docs](https://docs.trophy.so/webhooks)
 - [Twilio](https://www.twilio.com/) - [docs](https://www.twilio.com/docs/api/ip-messaging/webhooks)
 - [Typeform](http://typeform.io/) - [docs](http://docs.typeform.io/docs/results-introduction)
 - [Uber](http://uber.com) - [docs](https://developer.uber.com/docs/webhooks)
@@ -170,6 +170,7 @@ Resources for API providers and consumers of webhooks.
 - [Charles](http://www.charlesproxy.com/) - Tool to inspect HTTP traffic between your local machine and the internet
 - [Convoy](http://getconvoy.io/) - An open source webhooks proxy; for sending and receiving events (cloud and open source)
 - [Fanout Cloud](http://fanout.io/cloud/) - [docs](https://docs.fanout.io/docs) Push platform supporting webhooks
+- [h00k.dev](https://www.h00k.dev/) - Debug, test, and monitor webhooks
 - [hook.io](https://hook.io/) - Microservice and webhook hosting
 - [Hookdeck](https://hookdeck.com/) - Inbound webhook queue supporting fanout, retry, alerting & more
 - [Hooklistener](https://hooklistener.com/) - Managed webhook proxy that lets developers receive, inspect, and replay HTTP requests with ease
@@ -177,26 +178,26 @@ Resources for API providers and consumers of webhooks.
 - [HostedHooks](https://hostedhooks.com/) - Webhook platform (webhooks as a service)
 - [Inhooks](https://github.com/didil/inhooks) - Lightweight Incoming Webhooks Gateway
 - [Jiter](https://jiter.dev/) - Just In Time (JIT) webhooks for scheduling / delaying
+- [LocalCan](https://www.localcan.com/) - Ngrok alternative with Public URLs and Local domains. Receive, inspect & replay any request
 - [ngrok](https://ngrok.com/) - Secure tunnels to localhost
 - [Open Webhook](https://openwebhook.io/) - Store webhooks and receive on localhost
+- [Postman](https://learning.postman.com/docs/integrations/webhooks/) - Configure custom webhooks in Postman
 - [Reliable Webhook](https://www.reliablewebhook.com/) - VS Code extension & relay app to help develop webhooks
 - [RequestBin](http://requestb.in/) - RequestBin gives you a temporary URL that will collect and inspect requests made to it.
 - [REST Hooks](http://resthooks.org/) - A collection of patterns that treat webhooks like subscriptions
-- [Postman](https://learning.postman.com/docs/integrations/webhooks/) - Configure custom webhooks in Postman
 - [Svix](https://www.svix.com/) - Webhook sending platform (webhooks as a service)
 - [Svix Playground](https://www.svix.com/play/) - Svix version of RequestBin
+- [Ultrahook](http://www.ultrahook.com/) - Receive webhooks on localhost
+- [Vedika API](https://vedika.io) - Vedic astrology API with webhook support
 - [WebhookApp](https://webhookapp.com/) - Test, debug, proxy and replay webhooks
 - [WebhookInbox](http://webhookinbox.com/) - Like RequestBin but with live updates
+- [Webhook.cool](https://webhook.cool/) - Testing tool. Receive and inspect incoming webhooks
 - [webhooks.events.dev](https://webhooks.events.dev/) - Webhook platform (webhooks as a service)
 - [webhooks.io](http://www.webhooks.io) - [docs](http://www.webhooks.io/docs) Inboud webhook queue
 - [webhook.site](https://webhook.site/) - Inspect, test & automate any incoming HTTP request or e-mail
 - [Webhook Relay](https://webhookrelay.com/) - Inbound webhook gateway for devices not directly connected to the Internet
 - [Webhook Wizard](https://webhookwizard.com/) - Webhook platform (webhooks as a service)
 - [WebReducer](https://hookreducer.com/) - Inbound webhook queue
-- [Ultrahook](http://www.ultrahook.com/) - Receive webhooks on localhost
 - [Zeplo](https://www.zeplo.io/) - [docs](https://www.zeplo.io/docs/intro) Add retry, delay, queue and schedule to your HTTP requests
 - [Zurl](http://github.com/fanout/zurl) - HTTP client worker with ZeroMQ interface
-- [Webhook.cool](https://webhook.cool/) - Testing tool. Receive and inspect incoming webhooks
-- [LocalCan](https://www.localcan.com/) - Ngrok alternative with Public URLs and Local domains. Receive, inspect & replay any request
 
-* [Vedika API](https://vedika.io) - Vedic astrology API with webhook support
