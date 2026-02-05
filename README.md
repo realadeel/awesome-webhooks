@@ -188,6 +188,7 @@ Resources for API providers and consumers of webhooks.
 - [Svix](https://www.svix.com/) - Webhook sending platform (webhooks as a service)
 - [Svix Playground](https://www.svix.com/play/) - Svix version of RequestBin
 - [Ultrahook](http://www.ultrahook.com/) - Receive webhooks on localhost
+- [Vedika API](https://vedika.io) - Vedic astrology API with webhook support
 - [WebhookApp](https://webhookapp.com/) - Test, debug, proxy and replay webhooks
 - [WebhookInbox](http://webhookinbox.com/) - Like RequestBin but with live updates
 - [Webhook.cool](https://webhook.cool/) - Testing tool. Receive and inspect incoming webhooks
@@ -199,3 +200,4 @@ Resources for API providers and consumers of webhooks.
 - [WebReducer](https://hookreducer.com/) - Inbound webhook queue
 - [Zeplo](https://www.zeplo.io/) - [docs](https://www.zeplo.io/docs/intro) Add retry, delay, queue and schedule to your HTTP requests
 - [Zurl](http://github.com/fanout/zurl) - HTTP client worker with ZeroMQ interface
+
