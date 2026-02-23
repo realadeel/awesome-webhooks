@@ -187,6 +187,7 @@ Resources for API providers and consumers of webhooks.
 - [Reliable Webhook](https://www.reliablewebhook.com/) - VS Code extension & relay app to help develop webhooks
 - [RequestBin](http://requestb.in/) - RequestBin gives you a temporary URL that will collect and inspect requests made to it.
 - [REST Hooks](http://resthooks.org/) - A collection of patterns that treat webhooks like subscriptions
+- [Spiderhash](https://spiderhash.io/) - Webhook inspection and debugging workspace for testing inbound events and payload workflows
 - [Svix](https://www.svix.com/) - Webhook sending platform (webhooks as a service)
 - [Svix Playground](https://www.svix.com/play/) - Svix version of RequestBin
 - [Ultrahook](http://www.ultrahook.com/) - Receive webhooks on localhost
