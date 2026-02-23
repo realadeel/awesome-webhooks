@@ -1,4 +1,4 @@
-# Awesome Webhooks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Webhooks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Webhooks are awesome. They are HTTP requests that are triggered when some event happens. The HTTP requests basically notify you the moment something interesting happens. Webhooks enable realtime actions between systems across the internet. To receive webhooks from a system, you often simply need to provide a URL for the system to post to.
 
@@ -9,7 +9,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 ## Contents
 
 - [Community](#community) - Web communities to discuss webhooks.
-- [About Webhooks](#about-webhooks) - APIs that will make requests to your system about an event.
+- [About Webhooks](#about-webhooks) - Tutorials, guides, and articles about using webhooks.
 - [Outgoing](#outgoing) - APIs that will make requests to your system about an event.
 - [Incoming](#incoming) - APIs that can receive HTTP requests from your system about an event.
 - [Development Tools](#development-tools) - Resources for API providers and consumers of webhooks.
@@ -18,14 +18,14 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 
 Places to ask questions and discuss webhooks and associated topics.
 
-- [g/webhooks](https://groups.google.com/g/webhooks) - Google group for webhooks
-- [r/webhooks](https://www.reddit.com/r/webhooks/) - Reddit subreddit for webhooks
+- [g/webhooks](https://groups.google.com/g/webhooks) - Google group for webhooks.
+- [r/webhooks](https://www.reddit.com/r/webhooks/) - Reddit subreddit for webhooks.
 
 ## About Webhooks
 
 Tutorials, guides, articles about using webhooks.
 
-- [What’s a Webhook?](https://sendgrid.com/blog/whats-webhook/)
+- [What's a Webhook?](https://sendgrid.com/blog/whats-webhook/)
 - [What are Webhooks?](http://webhooks.us/)
 - [Webhooks.fyi](https://webhooks.fyi/)
 - [Standard Webhooks](https://www.standardwebhooks.com/)
@@ -60,8 +60,8 @@ APIs that will make requests to your system about an event.
 - [Clearbit](https://clearbit.com/) - [docs](https://clearbit.com/docs#webhooks)
 - [Clover](https://clover.com) - [docs](https://docs.clover.com/build/web-apps/webhooks/)
 - [Codeship](http://codeship.com) - [docs](https://codeship.com/documentation/integrations/webhooks/)
-- [Constant Contact](https://constantcontact.com/)- [docs](https://developer.constantcontact.com/docs/partnerwebhooks/webhooks_index.html)
-- [Contentful](https://www.contentful.com/)- [docs](https://www.contentful.com/developers/docs/concepts/webhooks/)
+- [Constant Contact](https://constantcontact.com/) - [docs](https://developer.constantcontact.com/docs/partnerwebhooks/webhooks_index.html)
+- [Contentful](https://www.contentful.com/) - [docs](https://www.contentful.com/developers/docs/concepts/webhooks/)
 - [Context.io](https://context.io/) - [docs](https://context.io/docs/2.0/accounts/webhooks)
 - [Crowdflower](https://crowdflower.com) - [docs](https://success.crowdflower.com/hc/en-us/articles/201856249-CrowdFlower-Webhook-Basics)
 - [Customer.io](http://customer.io) - [docs](https://customer.io/docs/webhooks.html)
@@ -80,13 +80,13 @@ APIs that will make requests to your system about an event.
 - [Fulcrum](http://fulcrumapp.com) - [docs](http://developer.fulcrumapp.com/general/webhooks/)
 - [FullContact](https://fullcontact.com) - [docs](https://www.fullcontact.com/developer/docs/webhooks/)
 - [GetSatisfaction](https://getsatisfaction.com) - [docs](https://education.getsatisfaction.com/reference-guide/api/push-api-webhooks/)
-- [Github](https://github.com/) - [docs](https://developer.github.com/webhooks/)
+- [GitHub](https://github.com/) - [docs](https://developer.github.com/webhooks/)
 - [Gogs](https://gogs.io) - [docs](https://gogs.io/docs/features/webhook)
 - [GoSquared](https://gosquared.com) - [docs](https://www.gosquared.com/customer/portal/articles/1996494-webhooks)
 - [Groove](https://groovehq.com) - [docs](https://www.groovehq.com/docs/webhooks)
 - [Gumroad](https://gumroad.com) - [docs](https://gumroad.com/webhooks)
 - [HubSpot](http://hubspot.com/) - [docs](http://knowledge.hubspot.com/articles/kcs_article/workflows/how-do-i-use-webhooks-with-hubspot-workflows)
-- [IFTTT](http://ifttt.com/) - [docs](https://ifttt.com/maker)
+- [IFTTT](https://ifttt.com/) - [docs](https://ifttt.com/maker)
 - [Instapage](https://instapage.com) - [docs](https://help.instapage.com/hc/en-us/articles/206039867-How-do-I-use-Webhooks-)
 - [Intercom](https://intercom.io) - [docs](https://docs.intercom.io/integrations/webhooks)
 - [Janrain](http://janrain.com/) - [docs](http://developers.janrain.com/overview/registration/webhooks/)
@@ -99,7 +99,7 @@ APIs that will make requests to your system about an event.
 - [Mailchimp](http://mailchimp.com/) - [docs](http://developer.mailchimp.com/documentation/mailchimp/reference/overview/)
 - [Mailgun](https://mailgun.com) - [docs](https://documentation.mailgun.com/api-webhooks.html)
 - [Marketo](https://marketo.com) - [docs](http://developers.marketo.com/documentation/webhooks/)
-- [Mattermost](http://mattermost.com/) - [docs](http://docs.mattermost.com/developer/api.html)
+- [Mattermost](https://mattermost.com/) - [docs](http://docs.mattermost.com/developer/api.html)
 - [Mixpanel](https://mixpanel.com) - [docs](https://mixpanel.com/help/reference/webhooks)
 - [Mollie](https://www.mollie.com/) - [docs](https://www.mollie.com/en/docs/webhook)
 - [NationBuilder](https://nationbuilder.com) - [docs](http://nationbuilder.com/webhooks_api)
@@ -122,11 +122,11 @@ APIs that will make requests to your system about an event.
 - [Recurly](https://recurly.com) - [docs](https://dev.recurly.com/page/webhooks)
 - [Segment](https://segment.com) - [docs](https://segment.com/docs/integrations/webhooks/)
 - [SendGrid](https://sendgrid.com/) - [docs](https://sendgrid.com/docs/API_Reference/Webhooks/index.html)
-- [Shippable](https://shippable.com/)- [docs](http://docs.shippable.com/ci_configure/#event-triggers)
+- [Shippable](https://shippable.com/) - [docs](http://docs.shippable.com/ci_configure/#event-triggers)
 - [Shippo](https://goshippo.com/) - [docs](https://goshippo.com/shipping-api/tracking)
 - [Shipwire](https://shipwire.com/) - [docs](https://www.shipwire.com/w/developers/webhook/)
 - [Shopify](https://www.shopify.com/) - [docs](https://help.shopify.com/api/reference/webhook)
-- [Slack](https://slackhq.com/) - [docs](https://api.slack.com/outgoing-webhooks)
+- [Slack](https://slack.com/) - [docs](https://api.slack.com/outgoing-webhooks)
 - [Solve](https://solve360.com/) - [docs](https://solve360.com/api/webhook-management/)
 - [SparkPost](https://sparkpost.com) - [docs](https://support.sparkpost.com/customer/portal/articles/1929974-defining-webhooks)
 - [Square](https://squareup.com/) - [docs](https://docs.connect.squareup.com/#webhooks-overview)
@@ -155,54 +155,53 @@ APIs that will make requests to your system about an event.
 
 APIs that can receive HTTP requests from your system about an event.
 
-- [hookdoo](https://hookdoo.com/) - Scriptable webhook gateway to safely run your custom builds, deploys, and proxy scripts on your servers
-- [IFTTT](http://ifttt.com/) - [docs](https://ifttt.com/maker)
-- [Mattermost](http://mattermost.com/) - [docs](http://docs.mattermost.com/developer/api.html)
+- [hookdoo](https://hookdoo.com/) - Scriptable webhook gateway to safely run your custom builds, deploys, and proxy scripts on your servers.
+- [IFTTT](https://ifttt.com/maker) - Automation platform that connects apps and services via webhooks.
+- [Mattermost](https://mattermost.com/incoming-webhooks/) - Open-source messaging platform with incoming webhook support.
 - [Pipedream](https://pipedream.com/) - [docs](https://pipedream.com/docs)
-- [Slack](https://slackhq.com/) - [docs](https://api.slack.com/incoming-webhooks)
-- [Zapier](https://zapier.com/) - [docs](https://zapier.com/developer/documentation/v2/rest-hooks/)
+- [Slack](https://api.slack.com/incoming-webhooks) - Team messaging platform with incoming webhook integrations.
+- [Zapier](https://zapier.com/apps/webhook/integrations) - Automation platform that triggers workflows from incoming webhooks.
 
 ## Development Tools
 
 Resources for API providers and consumers of webhooks.
 
-- [Boomerang](https://onassar.github.io/experiments/boomerang-webhooks) - Simple delayed webhook delivery
-- [Charles](http://www.charlesproxy.com/) - Tool to inspect HTTP traffic between your local machine and the internet
-- [Convoy](http://getconvoy.io/) - An open source webhooks proxy; for sending and receiving events (cloud and open source)
-- [Fanout Cloud](http://fanout.io/cloud/) - [docs](https://docs.fanout.io/docs) Push platform supporting webhooks
-- [h00k.dev](https://www.h00k.dev/) - Debug, test, and monitor webhooks
-- [hook.io](https://hook.io/) - Microservice and webhook hosting
-- [HookCatcher](https://github.com/opspawn/hookcatcher) - Open-source webhook testing and debugging tool with real-time SSE streaming, no signup required
-- [Hookdeck](https://hookdeck.com/) - Inbound webhook queue supporting fanout, retry, alerting & more
-- [Hooklistener](https://hooklistener.com/) - Managed webhook proxy that lets developers receive, inspect, and replay HTTP requests with ease
-- [HookRelay.io](https://www.hookrelay.io/) - Webhook reliability platform for buffering, retries, replay, and delivery guarantees
-- [hookrelay](https://www.hookrelay.dev/) - Webhook delivery platform (webhooks as a service)
-- [HostedHooks](https://hostedhooks.com/) - Webhook platform (webhooks as a service)
-- [Inhooks](https://github.com/didil/inhooks) - Lightweight Incoming Webhooks Gateway
-- [Jiter](https://jiter.dev/) - Just In Time (JIT) webhooks for scheduling / delaying
-- [LocalCan](https://www.localcan.com/) - Ngrok alternative with Public URLs and Local domains. Receive, inspect & replay any request
-- [ngrok](https://ngrok.com/) - Secure tunnels to localhost
-- [Open Webhook](https://openwebhook.io/) - Store webhooks and receive on localhost
-- [Postman](https://learning.postman.com/docs/integrations/webhooks/) - Configure custom webhooks in Postman
-- [Reliable Webhook](https://www.reliablewebhook.com/) - VS Code extension & relay app to help develop webhooks
-- [RequestBin](http://requestb.in/) - RequestBin gives you a temporary URL that will collect and inspect requests made to it.
-- [REST Hooks](http://resthooks.org/) - A collection of patterns that treat webhooks like subscriptions
-- [Spiderhash](https://spiderhash.io/) - Webhook inspection and debugging workspace for testing inbound events and payload workflows
-- [Svix](https://www.svix.com/) - Webhook sending platform (webhooks as a service)
-- [Svix Playground](https://www.svix.com/play/) - Svix version of RequestBin
-- [Ultrahook](http://www.ultrahook.com/) - Receive webhooks on localhost
-- [Vedika API](https://vedika.io) - Vedic astrology API with webhook support
-- [WebhookApp](https://webhookapp.com/) - Test, debug, proxy and replay webhooks
-- [WebhookInbox](http://webhookinbox.com/) - Like RequestBin but with live updates
-- [Webhook.cool](https://webhook.cool/) - Testing tool. Receive and inspect incoming webhooks
-- [webhooks.events.dev](https://webhooks.events.dev/) - Webhook platform (webhooks as a service)
-- [webhooks.io](http://www.webhooks.io) - [docs](http://www.webhooks.io/docs) Inboud webhook queue
-- [webhook.site](https://webhook.site/) - Inspect, test & automate any incoming HTTP request or e-mail
+- [Boomerang](https://onassar.github.io/experiments/boomerang-webhooks) - Simple delayed webhook delivery.
+- [Charles](http://www.charlesproxy.com/) - Tool to inspect HTTP traffic between your local machine and the internet.
+- [Convoy](http://getconvoy.io/) - Open-source webhooks proxy for sending and receiving events.
+- [Fanout Cloud](http://fanout.io/cloud/) - [docs](https://docs.fanout.io/docs) - Push platform supporting webhooks.
+- [h00k.dev](https://www.h00k.dev/) - Debug, test, and monitor webhooks.
+- [hook.io](https://hook.io/) - Microservice and webhook hosting.
+- [HookCatcher](https://github.com/opspawn/hookcatcher) - Open-source webhook testing and debugging tool with real-time SSE streaming, no signup required.
+- [Hookdeck](https://hookdeck.com/) - Inbound webhook queue supporting fanout, retry, alerting and more.
+- [Hooklistener](https://hooklistener.com/) - Managed webhook proxy that lets developers receive, inspect, and replay HTTP requests with ease.
+- [HookRelay.io](https://www.hookrelay.io/) - Webhook reliability platform for buffering, retries, replay, and delivery guarantees.
+- [hookrelay](https://www.hookrelay.dev/) - Webhook delivery platform (webhooks as a service).
+- [HostedHooks](https://hostedhooks.com/) - Webhook platform (webhooks as a service).
+- [Inhooks](https://github.com/didil/inhooks) - Lightweight incoming webhooks gateway.
+- [Jiter](https://jiter.dev/) - Just In Time (JIT) webhooks for scheduling and delaying.
+- [LocalCan](https://www.localcan.com/) - Ngrok alternative with public URLs and local domains for receiving, inspecting, and replaying requests.
+- [ngrok](https://ngrok.com/) - Secure tunnels to localhost.
+- [Open Webhook](https://openwebhook.io/) - Store webhooks and receive on localhost.
+- [Postman](https://learning.postman.com/docs/integrations/webhooks/) - Configure custom webhooks in Postman.
+- [Reliable Webhook](https://www.reliablewebhook.com/) - VS Code extension and relay app to help develop webhooks.
+- [RequestBin](http://requestb.in/) - Gives you a temporary URL that will collect and inspect requests made to it.
+- [REST Hooks](http://resthooks.org/) - A collection of patterns that treat webhooks like subscriptions.
+- [Spiderhash](https://spiderhash.io/) - Webhook inspection and debugging workspace for testing inbound events and payload workflows.
+- [Svix](https://www.svix.com/) - Webhook sending platform (webhooks as a service).
+- [Svix Playground](https://www.svix.com/play/) - Svix version of RequestBin.
+- [Ultrahook](http://www.ultrahook.com/) - Receive webhooks on localhost.
+- [Vedika API](https://vedika.io) - Vedic astrology API with webhook support.
+- [WebhookApp](https://webhookapp.com/) - Test, debug, proxy, and replay webhooks.
+- [WebhookInbox](http://webhookinbox.com/) - Like RequestBin but with live updates.
+- [Webhook.cool](https://webhook.cool/) - Testing tool for receiving and inspecting incoming webhooks.
+- [webhooks.events.dev](https://webhooks.events.dev/) - Webhook platform (webhooks as a service).
+- [webhooks.io](http://www.webhooks.io) - [docs](http://www.webhooks.io/docs) - Inbound webhook queue.
+- [webhook.site](https://webhook.site/) - Inspect, test, and automate any incoming HTTP request or e-mail.
 - [Webhook Debugger](https://github.com/brancogao/webhook-debugger) - Self-hosted webhook inspector with 90-day history, signature verification (Stripe/GitHub/Slack/Shopify), and real-time debugging.
 - [Webhook Debugger & Logger](https://apify.com/ar27111994/webhook-debugger-logger) - Enterprise-grade webhook inspection, logging, and replay tool with real-time SSE streaming and mock responses.
-- [Webhook Relay](https://webhookrelay.com/) - Inbound webhook gateway for devices not directly connected to the Internet
-- [Webhook Wizard](https://webhookwizard.com/) - Webhook platform (webhooks as a service)
-- [WebReducer](https://hookreducer.com/) - Inbound webhook queue
-- [Zeplo](https://www.zeplo.io/) - [docs](https://www.zeplo.io/docs/intro) Add retry, delay, queue and schedule to your HTTP requests
-- [Zurl](http://github.com/fanout/zurl) - HTTP client worker with ZeroMQ interface
-
+- [Webhook Relay](https://webhookrelay.com/) - Inbound webhook gateway for devices not directly connected to the Internet.
+- [Webhook Wizard](https://webhookwizard.com/) - Webhook platform (webhooks as a service).
+- [WebReducer](https://hookreducer.com/) - Inbound webhook queue.
+- [Zeplo](https://www.zeplo.io/) - [docs](https://www.zeplo.io/docs/intro) - Add retry, delay, queue, and schedule to your HTTP requests.
+- [Zurl](http://github.com/fanout/zurl) - HTTP client worker with ZeroMQ interface.
