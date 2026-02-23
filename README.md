@@ -6,7 +6,7 @@ Please contribute to this list by pull request or contact me on Twitter [@\_adee
 
 Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%20this%20list%20of%20awesome%20webhooks%20APIs%20https://github.com/realadeel/awesome-webhooks).
 
-## Index
+## Contents
 
 - [Community](#community) - Web communities to discuss webhooks.
 - [About Webhooks](#about-webhooks) - APIs that will make requests to your system about an event.
