@@ -200,6 +200,7 @@ Resources for API providers and consumers of webhooks.
 - [webhook.site](https://webhook.site/) - Inspect, test, and automate any incoming HTTP request or e-mail.
 - [Webhook Debugger](https://github.com/brancogao/webhook-debugger) - Self-hosted webhook inspector with 90-day history, signature verification (Stripe/GitHub/Slack/Shopify), and real-time debugging.
 - [Webhook Debugger & Logger](https://apify.com/ar27111994/webhook-debugger-logger) - Enterprise-grade webhook inspection, logging, and replay tool with real-time SSE streaming and mock responses.
+- [Webhook Inspector](https://webhook-inspector-landing-one.vercel.app) - Free webhook debugging and inspection tool. Create unique endpoints, capture HTTP callbacks in real-time, inspect headers/body/query params, replay requests. REST API for programmatic access. No signup required.
 - [Webhook Relay](https://webhookrelay.com/) - Inbound webhook gateway for devices not directly connected to the Internet.
 - [Webhook Wizard](https://webhookwizard.com/) - Webhook platform (webhooks as a service).
 - [WebReducer](https://hookreducer.com/) - Inbound webhook queue.
