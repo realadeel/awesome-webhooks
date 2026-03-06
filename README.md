@@ -173,6 +173,7 @@ Resources for API providers and consumers of webhooks.
 - [h00k.dev](https://www.h00k.dev/) - Debug, test, and monitor webhooks.
 - [hook.io](https://hook.io/) - Microservice and webhook hosting.
 - [HookCatcher](https://github.com/opspawn/hookcatcher) - Open-source webhook testing and debugging tool with real-time SSE streaming, no signup required.
+- [HookRelay](https://hookrelay.fly.dev/) - [GitHub](https://github.com/ghost-workers/hookrelay) - Capture, debug, and relay webhooks in real time with one-click replay and local forwarding.
 - [Hookdeck](https://hookdeck.com/) - Inbound webhook queue supporting fanout, retry, alerting and more.
 - [Hooklistener](https://hooklistener.com/) - Managed webhook proxy that lets developers receive, inspect, and replay HTTP requests with ease.
 - [HookRelay.io](https://www.hookrelay.io/) - Webhook reliability platform for buffering, retries, replay, and delivery guarantees.
