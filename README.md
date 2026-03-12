@@ -169,6 +169,7 @@ Resources for API providers and consumers of webhooks.
 - [Boomerang](https://onassar.github.io/experiments/boomerang-webhooks) - Simple delayed webhook delivery.
 - [Charles](http://www.charlesproxy.com/) - Tool to inspect HTTP traffic between your local machine and the internet.
 - [Convoy](http://getconvoy.io/) - Open-source webhooks proxy for sending and receiving events.
+- [EventDock](https://eventdock.app/) - Inbound webhook reliability platform with automatic retries, dead letter queue, and AI anomaly detection. Built on Cloudflare's edge network.
 - [Fanout Cloud](http://fanout.io/cloud/) - [docs](https://docs.fanout.io/docs) - Push platform supporting webhooks.
 - [h00k.dev](https://www.h00k.dev/) - Debug, test, and monitor webhooks.
 - [hook.io](https://hook.io/) - Microservice and webhook hosting.
