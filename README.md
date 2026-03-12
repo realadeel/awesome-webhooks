@@ -148,6 +148,7 @@ APIs that will make requests to your system about an event.
 - [Wordpress](https://www.wordpress.com) - [docs](https://en.support.wordpress.com/webhooks/)
 - [Wufoo](http://wufoo.com/) - [docs](http://help.wufoo.com/articles/en_US/SurveyMonkeyArticleType/The-WebHook-APIs)
 - [Wunderlist](https://wunderlist.com/) - [docs](https://developer.wunderlist.com/documentation/endpoints/webhooks)
+- [Xquik](https://xquik.com/) - [docs](https://docs.xquik.com)
 - [Zapier](https://zapier.com/) - [docs](https://zapier.com/developer/documentation/v2/rest-hooks/)
 - [Zipwhip](https://www.zipwhip.com/) - [docs](https://www.zipwhip.com/api/webhooks/webhook)
 
