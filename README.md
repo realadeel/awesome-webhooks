@@ -185,8 +185,8 @@ Resources for API providers and consumers of webhooks.
 - [LocalCan](https://www.localcan.com/) - Ngrok alternative with public URLs and local domains for receiving, inspecting, and replaying requests.
 - [ngrok](https://ngrok.com/) - Secure tunnels to localhost.
 - [Open Webhook](https://openwebhook.io/) - Store webhooks and receive on localhost.
-- [Postman](https://learning.postman.com/docs/integrations/webhooks/) - Configure custom webhooks in Postman.
 - [Posthook](https://posthook.io/) - [docs](https://docs.posthook.io/) - Webhook scheduler with retries, delivery tracking, and failure alerting.
+- [Postman](https://learning.postman.com/docs/integrations/webhooks/) - Configure custom webhooks in Postman.
 - [Reliable Webhook](https://www.reliablewebhook.com/) - VS Code extension and relay app to help develop webhooks.
 - [RequestBin](http://requestb.in/) - Gives you a temporary URL that will collect and inspect requests made to it.
 - [REST Hooks](http://resthooks.org/) - A collection of patterns that treat webhooks like subscriptions.
