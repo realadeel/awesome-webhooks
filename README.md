@@ -185,6 +185,7 @@ Resources for API providers and consumers of webhooks.
 - [LocalCan](https://www.localcan.com/) - Ngrok alternative with public URLs and local domains for receiving, inspecting, and replaying requests.
 - [ngrok](https://ngrok.com/) - Secure tunnels to localhost.
 - [Open Webhook](https://openwebhook.io/) - Store webhooks and receive on localhost.
+- [Pipepie](https://github.com/pipepie/pipepie) - Self-hosted encrypted tunnel for exposing localhost with end-to-end Noise NK encryption, webhook inspection, AI pipeline tracing, and web dashboard.
 - [Posthook](https://posthook.io/) - [docs](https://docs.posthook.io/) - Webhook scheduler with retries, delivery tracking, and failure alerting.
 - [Postman](https://learning.postman.com/docs/integrations/webhooks/) - Configure custom webhooks in Postman.
 - [Reliable Webhook](https://www.reliablewebhook.com/) - VS Code extension and relay app to help develop webhooks.
