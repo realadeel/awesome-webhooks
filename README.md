@@ -144,6 +144,7 @@ APIs that will make requests to your system about an event.
 - [VerticalResponse](http://verticalresponse.com/) - [docs](http://developers.verticalresponse.com/docs/read/api_reference/Webhooks)
 - [Vend](https://vendhq.com) - [docs](https://developers.vendhq.com/documentation/webhooks.html)
 - [Versapay](http://versapay.com/) - [docs](http://developers.versapay.com/webhook-api.html)
+- [WhatsApp Cloud API](https://business.whatsapp.com/) - [docs](https://developers.facebook.com/docs/whatsapp/cloud-api/webhooks)
 - [WooCommerce](https://www.woothemes.com/woocommerce/) - [docs](https://docs.woothemes.com/document/webhooks/)
 - [Wordpress](https://www.wordpress.com) - [docs](https://en.support.wordpress.com/webhooks/)
 - [Wufoo](http://wufoo.com/) - [docs](http://help.wufoo.com/articles/en_US/SurveyMonkeyArticleType/The-WebHook-APIs)
@@ -177,6 +178,7 @@ Resources for API providers and consumers of webhooks.
 - [hook.io](https://hook.io/) - Microservice and webhook hosting.
 - [HookCatcher](https://github.com/opspawn/hookcatcher) - Open-source webhook testing and debugging tool with real-time SSE streaming, no signup required.
 - [Hook0](https://www.hook0.com/) - Open-source webhooks-as-a-service platform built in Rust.
+- [WhatsApp Readonly Bridge](https://github.com/MarketingBoer/whatsapp-readonly-bridge) - Zero-dependency Python webhook receiver for WhatsApp Cloud API. Saves messages to JSONL with Telegram digest.
 - [Hookdeck](https://hookdeck.com/) - Inbound webhook queue supporting fanout, retry, alerting and more.
 - [Hooklistener](https://hooklistener.com/) - Managed webhook proxy that lets developers receive, inspect, and replay HTTP requests with ease.
 - [HookRelay.io](https://www.hookrelay.io/) - Webhook reliability platform for buffering, retries, replay, and delivery guarantees.
