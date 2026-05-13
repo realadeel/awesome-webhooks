@@ -171,6 +171,7 @@ Resources for API providers and consumers of webhooks.
 - [Charles](http://www.charlesproxy.com/) - Tool to inspect HTTP traffic between your local machine and the internet.
 - [Convoy](http://getconvoy.io/) - Open-source webhooks proxy for sending and receiving events.
 - [CueAPI](https://github.com/cueapi/cueapi-core) - Scheduled outbound webhooks with required outcome verification; handlers POST back a verified outcome (external ID + result URL) after processing, so you can tell which deliveries actually did their job.
+- [Dodo Payments CLI](https://github.com/dodopayments/dodopayments-cli) - Open-source TUI to listen to live webhooks and forward them to localhost, or trigger test webhook events offline for payment, subscription, refund, dispute and license events.
 - [EventDock](https://eventdock.app/) - Inbound webhook reliability platform with automatic retries, dead letter queue, and AI anomaly detection. Built on Cloudflare's edge network.
 - [Fanout Cloud](http://fanout.io/cloud/) - [docs](https://docs.fanout.io/docs) - Push platform supporting webhooks.
 - [h00k.dev](https://www.h00k.dev/) - Debug, test, and monitor webhooks.
