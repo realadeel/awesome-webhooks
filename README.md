@@ -184,7 +184,7 @@ Resources for API providers and consumers of webhooks.
 - [hookrelay](https://www.hookrelay.dev/) - Webhook delivery platform (webhooks as a service).
 - [HostedHooks](https://hostedhooks.com/) - Webhook platform (webhooks as a service).
 - [Inhooks](https://github.com/didil/inhooks) - Lightweight incoming webhooks gateway.
-- [java-ngrok](https://github.com/alexdlaird/java-ngrok) - A Java wrapper for ngrok; programmatic tunnels and webhook testing.
+- [java-ngrok](https://java-ngrok.alexlaird.com) - A Java wrapper for ngrok; programmatic tunnels and webhook testing.
 - [Jiter](https://jiter.dev/) - Just In Time (JIT) webhooks for scheduling and delaying.
 - [LocalCan](https://www.localcan.com/) - Ngrok alternative with public URLs and local domains for receiving, inspecting, and replaying requests.
 - [ngrok](https://ngrok.com/) - Secure tunnels to localhost.
