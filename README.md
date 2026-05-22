@@ -178,20 +178,20 @@ Resources for API providers and consumers of webhooks.
 - [HookCatcher](https://github.com/opspawn/hookcatcher) - Open-source webhook testing and debugging tool with real-time SSE streaming, no signup required.
 - [Hook0](https://www.hook0.com/) - Open-source webhooks-as-a-service platform built in Rust.
 - [Hookdeck](https://hookdeck.com/) - Inbound webhook queue supporting fanout, retry, alerting and more.
-- [hookee](https://hookee.readthedocs.io/) - Command line webhooks, on demand.
+- [hookee](https://github.com/alexdlaird/hookee) - Command line webhooks, on demand.
 - [Hooklistener](https://hooklistener.com/) - Managed webhook proxy that lets developers receive, inspect, and replay HTTP requests with ease.
 - [HookRelay.io](https://www.hookrelay.io/) - Webhook reliability platform for buffering, retries, replay, and delivery guarantees.
 - [hookrelay](https://www.hookrelay.dev/) - Webhook delivery platform (webhooks as a service).
 - [HostedHooks](https://hostedhooks.com/) - Webhook platform (webhooks as a service).
 - [Inhooks](https://github.com/didil/inhooks) - Lightweight incoming webhooks gateway.
-- [java-ngrok](https://java-ngrok.alexlaird.com) - A Java wrapper for ngrok; programmatic tunnels and webhook testing.
+- [java-ngrok](https://github.com/alexdlaird/java-ngrok) - A Java wrapper for ngrok; programmatic tunnels and webhook testing.
 - [Jiter](https://jiter.dev/) - Just In Time (JIT) webhooks for scheduling and delaying.
 - [LocalCan](https://www.localcan.com/) - Ngrok alternative with public URLs and local domains for receiving, inspecting, and replaying requests.
 - [ngrok](https://ngrok.com/) - Secure tunnels to localhost.
 - [Open Webhook](https://openwebhook.io/) - Store webhooks and receive on localhost.
 - [Posthook](https://posthook.io/) - [docs](https://docs.posthook.io/) - Webhook scheduler with retries, delivery tracking, and failure alerting.
 - [Postman](https://learning.postman.com/docs/integrations/webhooks/) - Configure custom webhooks in Postman.
-- [pyngrok](https://pyngrok.readthedocs.io/) - A Python wrapper for ngrok; programmatic tunnels and webhook testing.
+- [pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok; programmatic tunnels and webhook testing.
 - [Reliable Webhook](https://www.reliablewebhook.com/) - VS Code extension and relay app to help develop webhooks.
 - [RequestBin](http://requestb.in/) - Gives you a temporary URL that will collect and inspect requests made to it.
 - [REST Hooks](http://resthooks.org/) - A collection of patterns that treat webhooks like subscriptions.
