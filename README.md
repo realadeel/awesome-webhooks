@@ -178,7 +178,7 @@ Resources for API providers and consumers of webhooks.
 - [HookCatcher](https://github.com/opspawn/hookcatcher) - Open-source webhook testing and debugging tool with real-time SSE streaming, no signup required.
 - [Hook0](https://www.hook0.com/) - Open-source webhooks-as-a-service platform built in Rust.
 - [Hookdeck](https://hookdeck.com/) - Inbound webhook queue supporting fanout, retry, alerting and more.
-- [hookee](https://github.com/alexdlaird/hookee) - Command line webhooks, on demand.
+- [hookee](https://github.com/alexdlaird/hookee) - Command line webhooks, on demand; receive and react to webhooks locally.
 - [Hooklistener](https://hooklistener.com/) - Managed webhook proxy that lets developers receive, inspect, and replay HTTP requests with ease.
 - [HookRelay.io](https://www.hookrelay.io/) - Webhook reliability platform for buffering, retries, replay, and delivery guarantees.
 - [hookrelay](https://www.hookrelay.dev/) - Webhook delivery platform (webhooks as a service).
