@@ -179,6 +179,7 @@ Resources for API providers and consumers of webhooks.
 - [Hook0](https://www.hook0.com/) - Open-source webhooks-as-a-service platform built in Rust.
 - [Hookdeck](https://hookdeck.com/) - Inbound webhook queue supporting fanout, retry, alerting and more.
 - [Hooklistener](https://hooklistener.com/) - Managed webhook proxy that lets developers receive, inspect, and replay HTTP requests with ease.
+- [HookRay](https://hookray.com/) - Webhook testing tool with smart parsing for 105+ services. Capture, inspect, replay. Free tier + $9/mo Pro.
 - [HookRelay.io](https://www.hookrelay.io/) - Webhook reliability platform for buffering, retries, replay, and delivery guarantees.
 - [hookrelay](https://www.hookrelay.dev/) - Webhook delivery platform (webhooks as a service).
 - [HostedHooks](https://hostedhooks.com/) - Webhook platform (webhooks as a service).
