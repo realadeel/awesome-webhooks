@@ -33,6 +33,7 @@ Tutorials, guides, articles about using webhooks.
 - [7 Reasons Webhooks are Magic](https://www.iron.io/7-reasons-webhooks-are-magic/)
 - [events.dev](https://events.dev/)
 - [CloudEvents event data specification](https://cloudevents.io/)
+- [EEP (Entity Engagement Protocol)](https://eep.dev/)
 
 ## Outgoing
 
