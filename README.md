@@ -74,6 +74,7 @@ APIs that will make requests to your system about an event.
 - [Evernote](https://evernote.com) - [docs](https://dev.evernote.com/doc/articles/polling_notification.php)
 - [ExactTarget](http://exacttarget.com/) - [docs](https://code.exacttarget.com/apis-sdks/rest-api/webhooks-subscription-api.html)
 - [Facebook](https://facebook.com) - [docs](https://developers.facebook.com/docs/graph-api/webhooks)
+- [Feedhook](https://feedhook.walls.sh) - [docs](https://feedhook.walls.sh/docs)
 - [FluidSurveys](https://fluidsurveys.com) - [docs](http://docs.fluidsurveys.com/fluidsurveys/api/webhooks.html)
 - [Formstack](https://formstack.com) - [docs](https://developers.formstack.com/v2.0/docs/webhook-setup)
 - [Freshbooks](https://freshbooks.com) - [docs](https://www.freshbooks.com/developers/webhooks)
