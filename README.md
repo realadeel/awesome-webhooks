@@ -188,6 +188,7 @@ Resources for API providers and consumers of webhooks.
 - [HookRay](https://hookray.com/) - Webhook testing tool with smart parsing for 105+ services. Capture, inspect, replay. Free tier + $9/mo Pro.
 - [HookRelay.io](https://www.hookrelay.io/) - Webhook reliability platform for buffering, retries, replay, and delivery guarantees.
 - [hookrelay](https://www.hookrelay.dev/) - Webhook delivery platform (webhooks as a service).
+- [HookSniff](https://github.com/servetarslan02/HookSniff) - Open-source webhook delivery platform with automatic retries, HMAC-SHA256 signatures (Standard Webhooks), dead letter queue, FIFO ordering, and real-time analytics. Built in Rust and Next.js.
 - [HostedHooks](https://hostedhooks.com/) - Webhook platform (webhooks as a service).
 - [Inhooks](https://github.com/didil/inhooks) - Lightweight incoming webhooks gateway.
 - [java-ngrok](https://github.com/alexdlaird/java-ngrok) - A Java wrapper for ngrok; programmatic tunnels and webhook testing.
