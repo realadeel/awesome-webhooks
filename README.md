@@ -217,6 +217,7 @@ Resources for API providers and consumers of webhooks.
 - [webhooks.events.dev](https://webhooks.events.dev/) - Webhook platform (webhooks as a service).
 - [webhooks.io](http://www.webhooks.io) - [docs](http://www.webhooks.io/docs) - Inbound webhook queue.
 - [webhook.site](https://webhook.site/) - Inspect, test, and automate any incoming HTTP request or e-mail.
+- [Webhook Bin](https://webhookrelay.com/webhook-bin/) - Free webhook tester to capture, inspect, and replay incoming HTTP requests in the browser; no signup.
 - [Webhook Debugger](https://github.com/brancogao/webhook-debugger) - Self-hosted webhook inspector with 90-day history, signature verification (Stripe/GitHub/Slack/Shopify), and real-time debugging.
 - [Webhook Debugger & Logger](https://apify.com/ar27111994/webhook-debugger-logger) - Enterprise-grade webhook inspection, logging, and replay tool with real-time SSE streaming and mock responses.
 - [Webhook Relay](https://webhookrelay.com/) - Inbound webhook gateway for devices not directly connected to the Internet.
