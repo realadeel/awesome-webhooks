@@ -143,6 +143,7 @@ APIs that will make requests to your system about an event.
 - [Twilio](https://www.twilio.com/) - [docs](https://www.twilio.com/docs/api/ip-messaging/webhooks)
 - [Typeform](http://typeform.io/) - [docs](http://docs.typeform.io/docs/results-introduction)
 - [Uber](http://uber.com) - [docs](https://developer.uber.com/docs/webhooks)
+- [UnfoldCMS](https://unfoldcms.com) - [GitHub](https://github.com/hpakdaman/unfoldcms) - Self-hosted Laravel CMS with HMAC-signed outgoing webhooks for content events (publish, update, delete). Ideal for JAMstack rebuild triggers with Next.js, Astro, or SvelteKit.
 - [VerticalResponse](http://verticalresponse.com/) - [docs](http://developers.verticalresponse.com/docs/read/api_reference/Webhooks)
 - [Vend](https://vendhq.com) - [docs](https://developers.vendhq.com/documentation/webhooks.html)
 - [Versapay](http://versapay.com/) - [docs](http://developers.versapay.com/webhook-api.html)
