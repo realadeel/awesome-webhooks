@@ -51,6 +51,7 @@ APIs that will make requests to your system about an event.
 - [Braintree](https://www.braintreepayments.com/) - [docs](https://developers.braintreepayments.com/guides/webhooks/overview)
 - [BrickFTP](https://brickftp.com/) - [docs](https://brickftp.com/docs/webhook-api/)
 - [Buildkite](https://buildkite.com) - [docs](https://buildkite.com/docs/webhooks)
+- [UnfoldCMS](https://unfoldcms.com) - Self-hosted Laravel CMS with HMAC-signed outgoing webhooks for content events. [docs](https://unfoldcms.com/docs)
 - [BusyConf](http://busyconf.com) - [docs](http://busyconf.com/docs/api/webhooks/)
 - [CallRail](https://callrail.com) - [docs](https://support.callrail.com/hc/en-us/articles/201211133-Webhooks)
 - [Campaign Monitor](https://www.campaignmonitor.com) - [docs](https://www.campaignmonitor.com/api/webhooks/)
@@ -143,6 +144,7 @@ APIs that will make requests to your system about an event.
 - [Twilio](https://www.twilio.com/) - [docs](https://www.twilio.com/docs/api/ip-messaging/webhooks)
 - [Typeform](http://typeform.io/) - [docs](http://docs.typeform.io/docs/results-introduction)
 - [Uber](http://uber.com) - [docs](https://developer.uber.com/docs/webhooks)
+- [UnfoldCMS](https://unfoldcms.com) - [GitHub](https://github.com/hpakdaman/unfoldcms) - Self-hosted Laravel CMS with HMAC-signed outgoing webhooks for content events (publish, update, delete). Ideal for JAMstack rebuild triggers with Next.js, Astro, or SvelteKit.
 - [VerticalResponse](http://verticalresponse.com/) - [docs](http://developers.verticalresponse.com/docs/read/api_reference/Webhooks)
 - [Vend](https://vendhq.com) - [docs](https://developers.vendhq.com/documentation/webhooks.html)
 - [Versapay](http://versapay.com/) - [docs](http://developers.versapay.com/webhook-api.html)
