@@ -208,6 +208,7 @@ Resources for API providers and consumers of webhooks.
 - [Simplehook](https://simplehook.dev/) - Receive webhooks at a stable URL with one line of code. Works for servers and AI agents.
 - [Snare](https://snare.naptownlabs.dev/) - Webhook tester with live request inspection and forwarding to Slack/Discord.
 - [Spiderhash](https://spiderhash.io/) - Webhook inspection and debugging workspace for testing inbound events and payload workflows.
+- [SuaveHooks](https://suavehooks.com/) - Capture, inspect & route webhooks (webhooks as a service). Live tail, transforms, and multi-target delivery.
 - [Svix](https://www.svix.com/) - Webhook sending platform (webhooks as a service).
 - [Svix Playground](https://www.svix.com/play/) - Svix version of RequestBin.
 - [Ultrahook](http://www.ultrahook.com/) - Receive webhooks on localhost.
