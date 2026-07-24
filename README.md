@@ -214,6 +214,7 @@ Resources for API providers and consumers of webhooks.
 - [Vedika API](https://vedika.io) - Vedic astrology API with webhook support.
 - [WebhookApp](https://webhookapp.com/) - Test, debug, proxy, and replay webhooks.
 - [WebhookInbox](http://webhookinbox.com/) - Like RequestBin but with live updates.
+- [webhook.co](https://www.webhook.co/) - Capture, inspect, and replay inbound webhooks; verifies signatures for 141 providers. CLI, API, and MCP server.
 - [Webhook.cool](https://webhook.cool/) - Testing tool for receiving and inspecting incoming webhooks.
 - [webhooks.events.dev](https://webhooks.events.dev/) - Webhook platform (webhooks as a service).
 - [webhooks.io](http://www.webhooks.io) - [docs](http://www.webhooks.io/docs) - Inbound webhook queue.
