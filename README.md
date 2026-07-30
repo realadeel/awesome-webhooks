@@ -34,6 +34,7 @@ Tutorials, guides, articles about using webhooks.
 - [events.dev](https://events.dev/)
 - [CloudEvents event data specification](https://cloudevents.io/)
 - [EEP (Entity Engagement Protocol)](https://eep.dev/)
+- [Guide to Reliable Shopify Webhooks](https://stackarchitect.xyz/blog/the-complete-guide-to-reliable-shopify-automations/)
 
 ## Outgoing
 
