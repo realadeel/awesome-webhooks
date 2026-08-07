@@ -34,7 +34,7 @@ Tutorials, guides, articles about using webhooks.
 - [events.dev](https://events.dev/)
 - [CloudEvents event data specification](https://cloudevents.io/)
 - [EEP (Entity Engagement Protocol)](https://eep.dev/)
-- [Webhook Provider Reference](https://anyhook.net/providers) - Response budgets, retry schedules and signature schemes for 17 providers, with a primary source per row.
+- [Webhook Provider Reference](https://anyhook.net/providers) - Response budgets, retry schedules and signature schemes for 18 providers, with a primary source per row.
 
 ## Outgoing
 
