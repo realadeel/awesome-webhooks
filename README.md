@@ -34,6 +34,7 @@ Tutorials, guides, articles about using webhooks.
 - [events.dev](https://events.dev/)
 - [CloudEvents event data specification](https://cloudevents.io/)
 - [EEP (Entity Engagement Protocol)](https://eep.dev/)
+- [Lead Capture Sicuro (n8n)](https://github.com/DeusAcc/n8n-workflow-packs) - n8n workflow: every form submission via webhook always lands on Google Sheets + a Slack notification in parallel, so leads never get lost to a single point of failure.
 
 ## Outgoing
 
