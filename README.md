@@ -42,6 +42,7 @@ APIs that will make requests to your system about an event.
 - [123 Contact Form](http://www.123contactform.com/) - [docs](http://www.123contactform.com/docs/123contactform-api-post-webhook/)
 - [ActiveCampaign](http://activecampaign.com) - [docs](http://www.activecampaign.com/api/webhooks.php)
 - [Aftership](https://www.aftership.com/) - [docs](https://www.aftership.com/docs/api/4/webhook)
+- [API Status Check](https://apistatuscheck.com) - [docs](https://apistatuscheck.com/integrations) - Sends Slack and Discord webhooks when a third-party API you depend on goes down or recovers.
 - [Api.ai](https://api.ai/) - [docs](https://docs.api.ai/docs/webhook)
 - [Asana](https://asana.com) - [docs](https://asana.com/developers/api-reference/webhooks)
 - [Automatic](https://automatic.com) - [docs](https://developer.automatic.com/api-reference/#receiving-webhooks)
