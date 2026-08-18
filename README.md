@@ -203,6 +203,7 @@ Resources for API providers and consumers of webhooks.
 - [Postman](https://learning.postman.com/docs/integrations/webhooks/) - Configure custom webhooks in Postman.
 - [pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok; programmatic tunnels and webhook testing.
 - [Reliable Webhook](https://www.reliablewebhook.com/) - VS Code extension and relay app to help develop webhooks.
+- [reqdump](https://reqdump-production.up.railway.app) - [GitHub](https://github.com/bakasa/reqdump) - Open-source HTTP request inspector and webhook debugger. No signup required. Create an endpoint in one click, capture any HTTP method, inspect headers/body/query. MIT licensed.
 - [Requex](https://requex.me/) - Webhook testing, mocking, and automated workflows. Capture live requests, mock responses, and trigger automated and customized actions.
 - [RequestBin](http://requestb.in/) - Gives you a temporary URL that will collect and inspect requests made to it.
 - [REST Hooks](http://resthooks.org/) - A collection of patterns that treat webhooks like subscriptions.
