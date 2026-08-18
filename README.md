@@ -217,6 +217,7 @@ Resources for API providers and consumers of webhooks.
 - [Svix Playground](https://www.svix.com/play/) - Svix version of RequestBin.
 - [Ultrahook](http://www.ultrahook.com/) - Receive webhooks on localhost.
 - [Vedika API](https://vedika.io) - Vedic astrology API with webhook support.
+- [wanguard-notify](https://github.com/Flowtriq/wanguard-notify) - Alert bridge for Andrisoft Wanguard that forwards DDoS attack notifications to Slack, Discord, PagerDuty, Telegram, Teams, email, and webhooks.
 - [WebhookApp](https://webhookapp.com/) - Test, debug, proxy, and replay webhooks.
 - [WebhookInbox](http://webhookinbox.com/) - Like RequestBin but with live updates.
 - [webhook.co](https://www.webhook.co/) - Capture, inspect, and replay inbound webhooks; verifies signatures for 140+ providers. CLI, API, and MCP server.
