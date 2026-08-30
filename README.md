@@ -35,7 +35,7 @@ Tutorials, guides, articles about using webhooks.
 - [CloudEvents event data specification](https://cloudevents.io/)
 - [EEP (Entity Engagement Protocol)](https://eep.dev/)
 - [Webhook Provider Reference](https://anyhook.net/providers) - Response budgets, retry schedules and signature schemes for 18 providers, with a primary source per row.
-
+- [Webhook Replay Protection: Why Signature Verification Is Not Enough](https://buildwithafolayan.com/insights/webhook-replay-protection) - Technical guide covering timestamp tolerance, signature verification, and idempotent event handling.
 ## Outgoing
 
 APIs that will make requests to your system about an event.
