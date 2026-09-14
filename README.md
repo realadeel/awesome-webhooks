@@ -94,6 +94,7 @@ APIs that will make requests to your system about an event.
 - [Instapage](https://instapage.com) - [docs](https://help.instapage.com/hc/en-us/articles/206039867-How-do-I-use-Webhooks-)
 - [Intercom](https://intercom.io) - [docs](https://docs.intercom.io/integrations/webhooks)
 - [Janrain](http://janrain.com/) - [docs](http://developers.janrain.com/overview/registration/webhooks/)
+- [Jitterflow](https://jitterflow.io) - [docs](https://jitterflow.io/docs/) - Hosted webhook delivery with burst spacing, retries, and dead-letter queue. Free tier available.
 - [Jive](https://jivesoftware.com/) - [docs](https://developers.jivesoftware.com/api/v3/cloud/rest/WebhooksService.html)
 - [JotForm](https://jotform.com) - [docs](https://www.jotform.com/help/245-How-to-Setup-Webhook-with-JotForm)
 - [Layer](https://layer.com/) - [docs](https://developer.layer.com/docs/webhooks)
