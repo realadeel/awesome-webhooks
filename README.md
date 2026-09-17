@@ -222,6 +222,7 @@ Resources for API providers and consumers of webhooks.
 - [WebhookInbox](http://webhookinbox.com/) - Like RequestBin but with live updates.
 - [webhook.co](https://www.webhook.co/) - Capture, inspect, and replay inbound webhooks; verifies signatures for 140+ providers. CLI, API, and MCP server.
 - [Webhook.cool](https://webhook.cool/) - Testing tool for receiving and inspecting incoming webhooks.
+- [Webhooker](https://webhooker.eu/) - EU-hosted inbound webhooks as a service: one ingest URL verifies provider signatures, stores events durably, and fans them out to your destinations with retries and replay.
 - [webhooks.events.dev](https://webhooks.events.dev/) - Webhook platform (webhooks as a service).
 - [webhooks.io](http://www.webhooks.io) - [docs](http://www.webhooks.io/docs) - Inbound webhook queue.
 - [webhook.site](https://webhook.site/) - Inspect, test, and automate any incoming HTTP request or e-mail.
