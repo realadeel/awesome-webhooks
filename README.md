@@ -204,6 +204,7 @@ Resources for API providers and consumers of webhooks.
 - [Posthook](https://posthook.io/) - [docs](https://docs.posthook.io/) - Webhook scheduler with retries, delivery tracking, and failure alerting.
 - [Postman](https://learning.postman.com/docs/integrations/webhooks/) - Configure custom webhooks in Postman.
 - [pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok; programmatic tunnels and webhook testing.
+- [Railhook](https://railhook.io/) - [GitHub](https://github.com/vadymkykalo/railhook) - Open-source webhook gateway for both directions: signs and retries deliveries to your customers, verifies Stripe/GitHub/Shopify/Slack/Twilio/GitLab signatures on the way in, replays failures, and forwards to localhost. MIT, self-hostable.
 - [Reliable Webhook](https://www.reliablewebhook.com/) - VS Code extension and relay app to help develop webhooks.
 - [reqdump](https://reqdump-production.up.railway.app) - [GitHub](https://github.com/bakasa/reqdump) - Open-source HTTP request inspector and webhook debugger. No signup required. Create an endpoint in one click, capture any HTTP method, inspect headers/body/query. MIT licensed.
 - [Requex](https://requex.me/) - Webhook testing, mocking, and automated workflows. Capture live requests, mock responses, and trigger automated and customized actions.
