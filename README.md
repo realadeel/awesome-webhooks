@@ -189,6 +189,7 @@ Resources for API providers and consumers of webhooks.
 - [WhatsApp Readonly Bridge](https://github.com/MarketingBoer/whatsapp-readonly-bridge) - Zero-dependency Python webhook receiver for WhatsApp Cloud API. Saves messages to JSONL with Telegram digest.
 - [Hookdeck](https://hookdeck.com/) - Inbound webhook queue supporting fanout, retry, alerting and more.
 - [hookee](https://github.com/alexdlaird/hookee) - Command line webhooks, on demand; receive and react to webhooks locally.
+- [webhook-sig-verifier](https://github.com/errantsolutions/webhook-sig-verifier) - Free open-source CLI to verify webhook HMAC signatures (GitHub, Stripe, Slack, or generic HMAC-SHA256/SHA1) locally, offline, with zero dependencies -- paste secret + payload + signature header, find out immediately whether it should validate.
 - [Hooklistener](https://hooklistener.com/) - Managed webhook proxy that lets developers receive, inspect, and replay HTTP requests with ease.
 - [HookRay](https://hookray.com/) - Webhook testing tool with smart parsing for 105+ services. Capture, inspect, replay. Free tier + $9/mo Pro.
 - [HookRelay.io](https://www.hookrelay.io/) - Webhook reliability platform for buffering, retries, replay, and delivery guarantees.
