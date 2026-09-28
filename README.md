@@ -229,6 +229,7 @@ Resources for API providers and consumers of webhooks.
 - [Webhook Debugger](https://github.com/brancogao/webhook-debugger) - Self-hosted webhook inspector with 90-day history, signature verification (Stripe/GitHub/Slack/Shopify), and real-time debugging.
 - [Webhook Debugger & Logger](https://apify.com/ar27111994/webhook-debugger-logger) - Enterprise-grade webhook inspection, logging, and replay tool with real-time SSE streaming and mock responses.
 - [Webhook Relay](https://webhookrelay.com/) - Inbound webhook gateway for devices not directly connected to the Internet.
+- [Webhook Replay Harness](https://github.com/edilec/webhook-replay-harness) - Replay sanitized fixtures against an in-process mock receiver to test retries, ordering, and duplicate handling without network calls.
 - [Webhook Studio](https://webhook-studio.com/) - Capture, verify, route, and replay webhooks; learns event schemas from real traffic and generates TypeScript/Zod/JSON-Schema types. Zero-signup endpoints and an MCP server for agents.
 - [Webhook Wizard](https://webhookwizard.com/) - Webhook platform (webhooks as a service).
 - [WebReducer](https://hookreducer.com/) - Inbound webhook queue.
