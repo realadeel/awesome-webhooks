@@ -35,6 +35,7 @@ Tutorials, guides, articles about using webhooks.
 - [CloudEvents event data specification](https://cloudevents.io/)
 - [EEP (Entity Engagement Protocol)](https://eep.dev/)
 - [Webhook Provider Reference](https://anyhook.net/providers) - Response budgets, retry schedules and signature schemes for 18 providers, with a primary source per row.
+- [Razorpay Webhooks Done Right](https://www.buildbyravirai.com/blog/razorpay-webhooks-idempotency-reconciliation-india-2026) - Verifying signatures on the raw body, idempotent handlers, async processing and daily reconciliation, worked through for Razorpay.
 
 ## Outgoing
 
