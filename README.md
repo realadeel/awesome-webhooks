@@ -94,7 +94,6 @@ APIs that will make requests to your system about an event.
 - [Instapage](https://instapage.com) - [docs](https://help.instapage.com/hc/en-us/articles/206039867-How-do-I-use-Webhooks-)
 - [Intercom](https://intercom.io) - [docs](https://docs.intercom.io/integrations/webhooks)
 - [Janrain](http://janrain.com/) - [docs](http://developers.janrain.com/overview/registration/webhooks/)
-- [Jitterflow](https://jitterflow.io) - [docs](https://jitterflow.io/docs/) - Hosted webhook delivery with burst spacing, retries, and dead-letter queue. Free tier available.
 - [Jive](https://jivesoftware.com/) - [docs](https://developers.jivesoftware.com/api/v3/cloud/rest/WebhooksService.html)
 - [JotForm](https://jotform.com) - [docs](https://www.jotform.com/help/245-How-to-Setup-Webhook-with-JotForm)
 - [Layer](https://layer.com/) - [docs](https://developer.layer.com/docs/webhooks)
@@ -199,6 +198,7 @@ Resources for API providers and consumers of webhooks.
 - [Inhooks](https://github.com/didil/inhooks) - Lightweight incoming webhooks gateway.
 - [java-ngrok](https://github.com/alexdlaird/java-ngrok) - A Java wrapper for ngrok; programmatic tunnels and webhook testing.
 - [Jiter](https://jiter.dev/) - Just In Time (JIT) webhooks for scheduling and delaying.
+- [Jitterflow](https://jitterflow.io/) - [docs](https://jitterflow.io/docs/) - Outbound webhook delivery that paces bursts to each receiver's rate limit, with retries, jitter and a dead-letter queue. Free tier.
 - [LocalCan](https://www.localcan.com/) - Ngrok alternative with public URLs and local domains for receiving, inspecting, and replaying requests.
 - [ngrok](https://ngrok.com/) - Secure tunnels to localhost.
 - [Open Webhook](https://openwebhook.io/) - Store webhooks and receive on localhost.
