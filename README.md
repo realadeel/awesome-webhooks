@@ -29,6 +29,7 @@ Tutorials, guides, articles about using webhooks.
 - [What are Webhooks?](http://webhooks.us/)
 - [Webhooks.fyi](https://webhooks.fyi/)
 - [Standard Webhooks](https://www.standardwebhooks.com/)
+- [NAIF Gravity Diagnostic Hub](https://github.com/naief9961-tech/ai-growth-engine/blob/main/NAIF-GRAVITY.md) - Webhook triage checklist for delivery status, signature results, and redacted payloads, with reproducible issue templates.
 - [Creative Uses for Webhooks](http://code.tutsplus.com/tutorials/creative-uses-for-webhooks--cms-22818)
 - [7 Reasons Webhooks are Magic](https://www.iron.io/7-reasons-webhooks-are-magic/)
 - [events.dev](https://events.dev/)
