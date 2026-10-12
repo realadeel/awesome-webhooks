@@ -131,6 +131,7 @@ APIs that will make requests to your system about an event.
 - [Shipwire](https://shipwire.com/) - [docs](https://www.shipwire.com/w/developers/webhook/)
 - [Shopify](https://www.shopify.com/) - [docs](https://help.shopify.com/api/reference/webhook)
 - [Slack](https://slack.com/) - [docs](https://api.slack.com/outgoing-webhooks)
+- [SolidPing](https://www.solidping.io) - [docs](https://docs.solidping.io/docs/configuration/notifications#webhooks) - Uptime monitoring that sends Standard Webhooks-signed events when a check goes down or recovers.
 - [Solve](https://solve360.com/) - [docs](https://solve360.com/api/webhook-management/)
 - [SparkPost](https://sparkpost.com) - [docs](https://support.sparkpost.com/customer/portal/articles/1929974-defining-webhooks)
 - [Square](https://squareup.com/) - [docs](https://docs.connect.squareup.com/#webhooks-overview)
