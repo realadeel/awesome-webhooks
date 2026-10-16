@@ -219,7 +219,7 @@ Resources for API providers and consumers of webhooks.
 - [Ultrahook](http://www.ultrahook.com/) - Receive webhooks on localhost.
 - [Vedika API](https://vedika.io) - Vedic astrology API with webhook support.
 - [WebhookApp](https://webhookapp.com/) - Test, debug, proxy, and replay webhooks.
-- [webhook-sig-verifier](https://git.canutethegreat.com/CanuteTheGreat/webhook-sig-verifier) - Free open-source Python CLI/library for verifying inbound webhook HMAC signatures (Stripe, GitHub, Shopify, Slack-style schemes) with constant-time comparison, so consumers can validate a payload without depending on a hosted webhook-inspection service.
+- [webhook-sig-verifier](https://git.canutethegreat.com/CanuteTheGreat/webhook-sig-verifier) - Free open-source Python CLI that checks inbound webhook HMAC signatures (GitHub, Stripe, Slack, generic HMAC-SHA256/SHA1) locally, with constant-time comparison.
 - [WebhookInbox](http://webhookinbox.com/) - Like RequestBin but with live updates.
 - [webhook.co](https://www.webhook.co/) - Capture, inspect, and replay inbound webhooks; verifies signatures for 140+ providers. CLI, API, and MCP server.
 - [Webhook.cool](https://webhook.cool/) - Testing tool for receiving and inspecting incoming webhooks.
