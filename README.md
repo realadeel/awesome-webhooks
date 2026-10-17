@@ -166,6 +166,7 @@ APIs that can receive HTTP requests from your system about an event.
 - [Mattermost](https://mattermost.com/incoming-webhooks/) - Open-source messaging platform with incoming webhook support.
 - [Pipedream](https://pipedream.com/) - [docs](https://pipedream.com/docs)
 - [Slack](https://api.slack.com/incoming-webhooks) - Team messaging platform with incoming webhook integrations.
+- [trading-alert-automation](https://github.com/Nyria-LLC/trading-alert-automation) - Webhook message examples, a Pine Script alert builder and a Python sender for routing TradingView, Discord and Telegram alerts to broker orders.
 - [Zapier](https://zapier.com/apps/webhook/integrations) - Automation platform that triggers workflows from incoming webhooks.
 
 ## Development Tools
