@@ -182,6 +182,7 @@ Resources for API providers and consumers of webhooks.
 - [EventDock](https://eventdock.app/) - Inbound webhook reliability platform with automatic retries, dead letter queue, and AI anomaly detection. Built on Cloudflare's edge network.
 - [Fanout Cloud](http://fanout.io/cloud/) - [docs](https://docs.fanout.io/docs) - Push platform supporting webhooks.
 - [FastHook](https://www.fasthook.io/) - Webhook gateway for routing, inspecting, retrying, replaying, and delivering events to HTTP endpoints, localhost CLI tunnels, Google Sheets, and Gmail.
+- [Good Webhooks](https://good-webhooks.dev/) - Open-source TypeScript library that sends Standard Webhooks from your own PostgreSQL database, with retries, replay, and endpoint management.
 - [h00k.dev](https://www.h00k.dev/) - Debug, test, and monitor webhooks.
 - [hook.io](https://hook.io/) - Microservice and webhook hosting.
 - [HookCatcher](https://github.com/opspawn/hookcatcher) - Open-source webhook testing and debugging tool with real-time SSE streaming, no signup required.
