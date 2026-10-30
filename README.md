@@ -67,6 +67,7 @@ APIs that will make requests to your system about an event.
 - [Contentful](https://www.contentful.com/) - [docs](https://www.contentful.com/developers/docs/concepts/webhooks/)
 - [Context.io](https://context.io/) - [docs](https://context.io/docs/2.0/accounts/webhooks)
 - [Crowdflower](https://crowdflower.com) - [docs](https://success.crowdflower.com/hc/en-us/articles/201856249-CrowdFlower-Webhook-Basics)
+- [CurlShot](https://curlshot.com) - [docs](https://curlshot.com/docs/async-and-webhooks) - Screenshot API that sends a signed webhook when a background screenshot, PDF or bulk job is done.
 - [Customer.io](http://customer.io) - [docs](https://customer.io/docs/webhooks.html)
 - [Diffbot](https://diffbot.com) - [docs](https://www.diffbot.com/dev/docs/crawl/)
 - [Doorman](https://doorman.co) - [docs](https://developer.doorman.co/docs/webhooks)
