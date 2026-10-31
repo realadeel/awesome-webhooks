@@ -35,6 +35,7 @@ Tutorials, guides, articles about using webhooks.
 - [CloudEvents event data specification](https://cloudevents.io/)
 - [EEP (Entity Engagement Protocol)](https://eep.dev/)
 - [Webhook Provider Reference](https://anyhook.net/providers) - Response budgets, retry schedules and signature schemes for 18 providers, with a primary source per row.
+- [Why Webhooks Feel Hard In Local Development](https://hboon.com/why-webhooks-feel-hard-in-local-development/) - Checklist for testing webhooks locally, covering public URL reachability, raw body and signature checks, returning fast, and duplicate or out-of-order deliveries.
 
 ## Outgoing
 
