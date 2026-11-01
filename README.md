@@ -181,7 +181,7 @@ Resources for API providers and consumers of webhooks.
 - [Dodo Payments CLI](https://github.com/dodopayments/dodopayments-cli) - Open-source TUI to listen to live webhooks and forward them to localhost, or trigger test webhook events offline for payment, subscription, refund, dispute and license events.
 - [EventDock](https://eventdock.app/) - Inbound webhook reliability platform with automatic retries, dead letter queue, and AI anomaly detection. Built on Cloudflare's edge network.
 - [Fanout Cloud](http://fanout.io/cloud/) - [docs](https://docs.fanout.io/docs) - Push platform supporting webhooks.
-- [FastHook](https://www.fasthook.io/) - Webhook gateway for routing, inspecting, retrying, replaying, and delivering events to HTTP endpoints, localhost CLI tunnels, Google Sheets, and Gmail.
+- [FastHook](https://www.fasthook.io/) - Visual workflow automation platform with app and webhook triggers, multi-step actions, filters, conditional paths, data transformations, an AI workflow assistant, and run history. Includes webhook inspection, retries, and replay.
 - [h00k.dev](https://www.h00k.dev/) - Debug, test, and monitor webhooks.
 - [hook.io](https://hook.io/) - Microservice and webhook hosting.
 - [HookCatcher](https://github.com/opspawn/hookcatcher) - Open-source webhook testing and debugging tool with real-time SSE streaming, no signup required.
