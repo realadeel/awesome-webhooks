@@ -216,6 +216,7 @@ Resources for API providers and consumers of webhooks.
 - [SuaveHooks](https://suavehooks.com/) - Capture, inspect & route webhooks (webhooks as a service). Live tail, transforms, and multi-target delivery.
 - [Svix](https://www.svix.com/) - Webhook sending platform (webhooks as a service).
 - [Svix Playground](https://www.svix.com/play/) - Svix version of RequestBin.
+- [Testhooks](https://github.com/sarathsp06/testhooks) - Open-source webhook tester that forwards to localhost from a browser tab and returns your app's real reply to the sender, with transforms, signature checks, a REST API and an MCP server.
 - [Ultrahook](http://www.ultrahook.com/) - Receive webhooks on localhost.
 - [Vedika API](https://vedika.io) - Vedic astrology API with webhook support.
 - [WebhookApp](https://webhookapp.com/) - Test, debug, proxy, and replay webhooks.
