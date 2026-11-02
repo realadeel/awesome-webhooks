@@ -212,6 +212,7 @@ Resources for API providers and consumers of webhooks.
 - [rustunnel](https://github.com/joaoh82/rustunnel) - Open-source secure tunnel server in Rust. Forward Stripe/GitHub/Twilio/Slack webhooks to a local handler; capture and replay requests from a dashboard. Self-hosted or managed.
 - [Simplehook](https://simplehook.dev/) - Receive webhooks at a stable URL with one line of code. Works for servers and AI agents.
 - [Snare](https://snare.naptownlabs.dev/) - Webhook tester with live request inspection and forwarding to Slack/Discord.
+- [Sparrow](https://github.com/sarathsp06/sparrow) - Open-source, self-hosted webhook delivery (webhooks as a service) in one Go binary with PostgreSQL as the only dependency; retries, Standard Webhooks signing, payload transforms and a consumer portal.
 - [Spiderhash](https://spiderhash.io/) - Webhook inspection and debugging workspace for testing inbound events and payload workflows.
 - [SuaveHooks](https://suavehooks.com/) - Capture, inspect & route webhooks (webhooks as a service). Live tail, transforms, and multi-target delivery.
 - [Svix](https://www.svix.com/) - Webhook sending platform (webhooks as a service).
