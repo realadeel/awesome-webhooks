@@ -49,6 +49,7 @@ APIs that will make requests to your system about an event.
 - [Automatic](https://automatic.com) - [docs](https://developer.automatic.com/api-reference/#receiving-webhooks)
 - [Bigcommerce](https://bigcommerce.com) - [docs](https://developer.bigcommerce.com/api/webhooks-getting-started)
 - [Bitbucket](https://bitbucket.org) - [docs](https://confluence.atlassian.com/bitbucket/manage-webhooks-735643732.html)
+- [Bitculator](https://bitculator.com/en/crypto-api) - [docs](https://bitculator.com/en/documentation/api/v1) - Sends a signed webhook (HMAC-SHA256) when a price alarm triggers, with a verification example in the docs.
 - [Box](https://box.com) - [docs](https://developers.box.com/webhooks/)
 - [Braintree](https://www.braintreepayments.com/) - [docs](https://developers.braintreepayments.com/guides/webhooks/overview)
 - [BrickFTP](https://brickftp.com/) - [docs](https://brickftp.com/docs/webhook-api/)
