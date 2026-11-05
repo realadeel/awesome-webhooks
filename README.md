@@ -83,6 +83,7 @@ APIs that will make requests to your system about an event.
 - [Freshbooks](https://freshbooks.com) - [docs](https://www.freshbooks.com/developers/webhooks)
 - [Fulcrum](http://fulcrumapp.com) - [docs](http://developer.fulcrumapp.com/general/webhooks/)
 - [FullContact](https://fullcontact.com) - [docs](https://www.fullcontact.com/developer/docs/webhooks/)
+- [Fwrd](https://www.fwrdsms.com) - [docs](https://www.fwrdsms.com/guides/webhook)
 - [GetSatisfaction](https://getsatisfaction.com) - [docs](https://education.getsatisfaction.com/reference-guide/api/push-api-webhooks/)
 - [GitHub](https://github.com/) - [docs](https://developer.github.com/webhooks/)
 - [Gogs](https://gogs.io) - [docs](https://gogs.io/docs/features/webhook)
