@@ -183,6 +183,7 @@ Resources for API providers and consumers of webhooks.
 - [Fanout Cloud](http://fanout.io/cloud/) - [docs](https://docs.fanout.io/docs) - Push platform supporting webhooks.
 - [FastHook](https://www.fasthook.io/) - Webhook gateway for routing, inspecting, retrying, replaying, and delivering events to HTTP endpoints, localhost CLI tunnels, Google Sheets, and Gmail.
 - [h00k.dev](https://www.h00k.dev/) - Debug, test, and monitor webhooks.
+- [HoldAlarms](https://holdalarms.com/) - Holds webhook alerts and retries delivery when your endpoint is down, so a bot restart doesn't lose the alert.
 - [hook.io](https://hook.io/) - Microservice and webhook hosting.
 - [HookCatcher](https://github.com/opspawn/hookcatcher) - Open-source webhook testing and debugging tool with real-time SSE streaming, no signup required.
 - [Hook0](https://www.hook0.com/) - Open-source webhooks-as-a-service platform built in Rust.
