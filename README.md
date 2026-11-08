@@ -29,6 +29,7 @@ Tutorials, guides, articles about using webhooks.
 - [What are Webhooks?](http://webhooks.us/)
 - [Webhooks.fyi](https://webhooks.fyi/)
 - [Standard Webhooks](https://www.standardwebhooks.com/)
+- [RMM alert-to-ticket routing troubleshooting checklist](https://izikipizi.github.io/nizlo-msp-operations-resources/rmm-alert-not-creating-ticket-troubleshooting-checklist.html) - 24 evidence-led checks for tracing alert eligibility, route selection, mapping, webhook or API delivery, retries, deduplication, ticket ownership, recovery and closure.
 - [Creative Uses for Webhooks](http://code.tutsplus.com/tutorials/creative-uses-for-webhooks--cms-22818)
 - [7 Reasons Webhooks are Magic](https://www.iron.io/7-reasons-webhooks-are-magic/)
 - [events.dev](https://events.dev/)
