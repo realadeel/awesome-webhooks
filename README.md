@@ -209,6 +209,7 @@ Resources for API providers and consumers of webhooks.
 - [Requex](https://requex.me/) - Webhook testing, mocking, and automated workflows. Capture live requests, mock responses, and trigger automated and customized actions.
 - [RequestBin](http://requestb.in/) - Gives you a temporary URL that will collect and inspect requests made to it.
 - [REST Hooks](http://resthooks.org/) - A collection of patterns that treat webhooks like subscriptions.
+- [Revenue Skills](https://github.com/moonetix/revenue-skills) - Agent Skills for AI coding agents that build payment webhook receivers for Stripe, Paddle, Lemon Squeezy, PayPal, RevenueCat, App Store and Google Play, with signature checks on the raw body, idempotent handling of retried events, and refund and chargeback reversal.
 - [rustunnel](https://github.com/joaoh82/rustunnel) - Open-source secure tunnel server in Rust. Forward Stripe/GitHub/Twilio/Slack webhooks to a local handler; capture and replay requests from a dashboard. Self-hosted or managed.
 - [Simplehook](https://simplehook.dev/) - Receive webhooks at a stable URL with one line of code. Works for servers and AI agents.
 - [Snare](https://snare.naptownlabs.dev/) - Webhook tester with live request inspection and forwarding to Slack/Discord.
