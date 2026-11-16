@@ -186,6 +186,7 @@ Resources for API providers and consumers of webhooks.
 - [hook.io](https://hook.io/) - Microservice and webhook hosting.
 - [HookCatcher](https://github.com/opspawn/hookcatcher) - Open-source webhook testing and debugging tool with real-time SSE streaming, no signup required.
 - [Hook0](https://www.hook0.com/) - Open-source webhooks-as-a-service platform built in Rust.
+- [HookBox](https://github.com/reseachrandomv/hookbox) - Local webhook inspector with a live dashboard, Stripe and GitHub signature checks, one-key replay, and cURL/Vitest/Jest export.
 - [WhatsApp Readonly Bridge](https://github.com/MarketingBoer/whatsapp-readonly-bridge) - Zero-dependency Python webhook receiver for WhatsApp Cloud API. Saves messages to JSONL with Telegram digest.
 - [Hookdeck](https://hookdeck.com/) - Inbound webhook queue supporting fanout, retry, alerting and more.
 - [hookee](https://github.com/alexdlaird/hookee) - Command line webhooks, on demand; receive and react to webhooks locally.
