@@ -35,6 +35,7 @@ Tutorials, guides, articles about using webhooks.
 - [CloudEvents event data specification](https://cloudevents.io/)
 - [EEP (Entity Engagement Protocol)](https://eep.dev/)
 - [Webhook Provider Reference](https://anyhook.net/providers) - Response budgets, retry schedules and signature schemes for 18 providers, with a primary source per row.
+- [How to Use Discord Webhooks](https://getbotdrop.com/guides/discord-webhooks/) - Beginner guide to Discord's incoming webhooks: setup, embeds and limits, the /github and /slack endpoints, and fixing 400, 403, 404 and 429 errors.
 
 ## Outgoing
 
