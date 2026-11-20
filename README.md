@@ -118,6 +118,7 @@ APIs that will make requests to your system about an event.
 - [Pingdom](http://pingdom.com/) - [docs](https://www.pingdom.com/resources/webhooks)
 - [PivotalTracker](https://www.pivotaltracker.com/) - [docs](https://www.pivotaltracker.com/help/api/rest/v5#Project_Webhooks)
 - [Plaid](https://plaid.com/) - [docs](https://plaid.com/docs/api/#webhook)
+- [Plaxswap](https://plaxswap.com/) - [docs](https://plaxswap.com/developers/payments#webhooks) - Crypto payment gateway that sends an HMAC-SHA256 signed webhook when a payment changes status.
 - [Podio](https://podio.com/) - [docs](https://developers.podio.com/examples/webhooks)
 - [Postmark](https://postmarkapp.com) - [docs](http://developer.postmarkapp.com/developer-webhooks-overview.html)
 - [Printful](https://www.theprintful.com/) - [docs](https://www.theprintful.com/docs/webhooks)
