@@ -198,6 +198,7 @@ Resources for API providers and consumers of webhooks.
 - [Inhooks](https://github.com/didil/inhooks) - Lightweight incoming webhooks gateway.
 - [java-ngrok](https://github.com/alexdlaird/java-ngrok) - A Java wrapper for ngrok; programmatic tunnels and webhook testing.
 - [Jiter](https://jiter.dev/) - Just In Time (JIT) webhooks for scheduling and delaying.
+- [Jitterflow](https://jitterflow.io/) - [docs](https://jitterflow.io/docs/) - Outbound webhook delivery that paces bursts to each receiver's rate limit, with retries, jitter and a dead-letter queue. Free tier.
 - [LocalCan](https://www.localcan.com/) - Ngrok alternative with public URLs and local domains for receiving, inspecting, and replaying requests.
 - [ngrok](https://ngrok.com/) - Secure tunnels to localhost.
 - [Open Webhook](https://openwebhook.io/) - Store webhooks and receive on localhost.
