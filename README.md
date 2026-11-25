@@ -102,6 +102,7 @@ APIs that will make requests to your system about an event.
 - [LiveChat](http://livechatinc.com/) - [docs](https://developers.livechatinc.com/build-an-integration)
 - [Mailchimp](http://mailchimp.com/) - [docs](http://developer.mailchimp.com/documentation/mailchimp/reference/overview/)
 - [Mailgun](https://mailgun.com) - [docs](https://documentation.mailgun.com/api-webhooks.html)
+- [Mailtrap](https://mailtrap.io/) - [docs](https://docs.mailtrap.io/general/webhooks) - Email API and SMTP that posts delivery, open, click, bounce and spam complaint events, signed with HMAC-SHA256.
 - [Marketo](https://marketo.com) - [docs](http://developers.marketo.com/documentation/webhooks/)
 - [Mattermost](https://mattermost.com/) - [docs](http://docs.mattermost.com/developer/api.html)
 - [Mixpanel](https://mixpanel.com) - [docs](https://mixpanel.com/help/reference/webhooks)
