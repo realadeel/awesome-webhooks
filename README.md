@@ -201,6 +201,7 @@ Resources for API providers and consumers of webhooks.
 - [LocalCan](https://www.localcan.com/) - Ngrok alternative with public URLs and local domains for receiving, inspecting, and replaying requests.
 - [ngrok](https://ngrok.com/) - Secure tunnels to localhost.
 - [Open Webhook](https://openwebhook.io/) - Store webhooks and receive on localhost.
+- [Pingtastic Webhook Tester](https://www.pingtastic.net/tools/webhook-tester) - Free webhook tester: generate a temporary URL and watch each request's headers, query params and body arrive in real time, no signup.
 - [Posthook](https://posthook.io/) - [docs](https://docs.posthook.io/) - Webhook scheduler with retries, delivery tracking, and failure alerting.
 - [Postman](https://learning.postman.com/docs/integrations/webhooks/) - Configure custom webhooks in Postman.
 - [pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok; programmatic tunnels and webhook testing.
